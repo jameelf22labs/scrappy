@@ -524,3 +524,85 @@
 [2025-08-05T15:45:08.671] [INFO] default - Application start on Port 9090
 [2025-08-05T15:45:15.781] [INFO] default - Sequelize with Postgres Connected
 [2025-08-05T15:45:15.786] [INFO] default - Application start on Port 9090
+[2025-08-05T15:47:19.110] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:47:19.113] [INFO] default - Application start on Port 9090
+[2025-08-05T15:48:23.718] [INFO] default - Crons are registered
+[2025-08-05T15:48:23.767] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:48:23.769] [INFO] default - Application start on Port 9090
+[2025-08-05T15:50:00.017] [INFO] default -  remote.co jobs was scheduled  2025-08-05T10:20:00.016Z
+[2025-08-05T15:50:00.018] [INFO] default - Remote.co started for scrapping
+[2025-08-05T15:50:05.173] [INFO] default - Opened remote.co jobs page
+[2025-08-05T15:50:06.549] [INFO] default - Going to next page: 1
+[2025-08-05T15:50:10.015] [INFO] default - Going to next page: 2
+[2025-08-05T15:50:13.798] [INFO] default - Going to next page: 3
+[2025-08-05T15:50:17.767] [INFO] default - Going to next page: 4
+[2025-08-05T15:50:21.693] [INFO] default - Going to next page: 5
+[2025-08-05T15:50:25.279] [INFO] default - Going to next page: 6
+[2025-08-05T15:50:28.878] [INFO] default - Going to next page: 7
+[2025-08-05T15:50:32.615] [INFO] default - Going to next page: 8
+[2025-08-05T15:50:36.076] [INFO] default - Going to next page: 9
+[2025-08-05T15:50:39.719] [INFO] default - Going to next page: 10
+[2025-08-05T15:50:42.178] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.216] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.251] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.279] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.304] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.336] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.369] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.398] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.417] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.433] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:51:35.265] [INFO] default - Crons are registered
+[2025-08-05T15:51:35.313] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:51:35.315] [INFO] default - Application start on Port 9090
+[2025-08-05T15:53:10.694] [INFO] default - Crons are registered
+[2025-08-05T15:53:10.783] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:53:10.786] [INFO] default - Application start on Port 9090
+[2025-08-05T15:54:00.032] [INFO] default -  remote.co jobs was scheduled  2025-08-05T10:24:00.031Z
+[2025-08-05T15:54:00.033] [INFO] default - Remote.co started for scrapping
+[2025-08-05T15:54:04.794] [INFO] default - Opened remote.co jobs page
+[2025-08-05T15:54:06.156] [INFO] default - Going to next page: 1
+[2025-08-05T15:54:10.011] [INFO] default - Going to next page: 2
+[2025-08-05T15:54:13.439] [INFO] default - Going to next page: 3
+[2025-08-05T15:54:17.364] [INFO] default - Going to next page: 4
+[2025-08-05T15:54:21.148] [INFO] default - Going to next page: 5
+[2025-08-05T15:54:24.857] [INFO] default - Going to next page: 6
+[2025-08-05T15:54:28.405] [INFO] default - Going to next page: 7
+[2025-08-05T15:54:32.111] [INFO] default - Going to next page: 8
+[2025-08-05T15:54:35.961] [INFO] default - Going to next page: 9
+[2025-08-05T15:54:39.448] [INFO] default - Going to next page: 10
+[2025-08-05T15:54:41.885] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:41.932] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:41.971] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.000] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.026] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.054] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.071] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.088] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.103] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.118] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.118] [INFO] default - Jobs are inserted Successfully
+[2025-08-05T15:56:00.031] [INFO] default -  remote.co jobs was scheduled  2025-08-05T10:26:00.031Z
+[2025-08-05T15:56:00.032] [INFO] default - Remote.co started for scrapping
+[2025-08-05T15:56:04.985] [INFO] default - Opened remote.co jobs page
+[2025-08-05T15:56:06.649] [INFO] default - Going to next page: 1
+[2025-08-05T15:56:10.134] [INFO] default - Going to next page: 2
+[2025-08-05T15:56:13.670] [INFO] default - Going to next page: 3
+[2025-08-05T15:56:17.481] [INFO] default - Going to next page: 4
+[2025-08-05T15:56:21.378] [INFO] default - Going to next page: 5
+[2025-08-05T15:56:24.897] [INFO] default - Going to next page: 6
+[2025-08-05T15:56:28.566] [INFO] default - Going to next page: 7
+[2025-08-05T15:56:32.320] [INFO] default - Going to next page: 8
+[2025-08-05T15:56:36.062] [INFO] default - Going to next page: 9
+[2025-08-05T15:56:39.823] [INFO] default - Going to next page: 10
+[2025-08-05T15:56:42.330] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.352] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.373] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.394] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.418] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.435] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.453] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.469] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.487] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.507] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.507] [INFO] default - Jobs are inserted Successfully
