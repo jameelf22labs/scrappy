@@ -1,12 +1,14 @@
-import { scrappeRemoteCo } from "../scrappe";
-import { JobQueryParams, ScrappedJobsTypes } from "../common/types/jobs.types";
+import { JobQueryParams } from "../common/types/jobs.types";
 import Jobs from "../database/models/Jobs.model";
 import { Op } from "sequelize";
+import QueueLib from "../queue/queue.lib";
+import { JobName, QueueName } from "../queue/constant";
 
 export const JobService = {
-  startScrapping: async (): Promise<ScrappedJobsTypes[]> => {
-    const jobs = await scrappeRemoteCo({ paginationLimit: 10 });
-    return jobs;
+  startScrapping: async (paginationLimit: number) => {
+    QueueLib.enQueue(JobName.ScrappeRemoteco, QueueName.Scrapping, {
+      paginationLimit,
+    });
   },
 
   getAllJobs: async (queryParams: JobQueryParams) => {
