@@ -1,6 +1,7 @@
 import { NextFunction, Request, Response } from "express";
 import HandleException from "../common/decors/handle.exception.decor";
 import Events from "../database/models/Events.model";
+import logger from "../config/logger-config";
 
 export default class EventHandler {
   @HandleException
@@ -10,6 +11,8 @@ export default class EventHandler {
     next: NextFunction
   ) {
     const { id } = request.params;
+
+    logger.info('Check event status handler ' , id)
 
     if (!id) {
       throw new Error("Bad request id is required");

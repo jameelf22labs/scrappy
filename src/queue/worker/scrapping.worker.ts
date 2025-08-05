@@ -36,7 +36,7 @@ const scrappingWorker = new Worker<ScrappingJobData>(
         logger.warn("No jobs");
 
         await EventsQueryHelper.updateStatusById(
-          { status: EventStatus.Running, data: "No jobs" },
+          { status: EventStatus.Success, data: "No jobs" },
           eventId
         );
         return;
@@ -45,7 +45,7 @@ const scrappingWorker = new Worker<ScrappingJobData>(
       await JobsQueryHelper.insertDataByBatches(50, jobs);
 
       await EventsQueryHelper.updateStatusById(
-        { status: EventStatus.Running, data: JSON.stringify(jobs) },
+        { status: EventStatus.Success, data: JSON.stringify(jobs) },
         eventId
       );
 
@@ -53,7 +53,7 @@ const scrappingWorker = new Worker<ScrappingJobData>(
     } catch (error) {
       logger.error("Scrapping worker error "), error;
       await EventsQueryHelper.updateStatusById(
-        { status: EventStatus.Running, errorMessage: JSON.stringify(error) },
+        { status: EventStatus.Failed, errorMessage: JSON.stringify(error) },
         eventId
       );
     }

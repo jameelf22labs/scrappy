@@ -6,6 +6,7 @@ import jobRouter from "./routes/jobs.route";
 import globalErrorMiddleware from "./middleware/global.error.middleware";
 import { registerCrons } from "./scrappe/jobs";
 import registerWorker from "./queue/worker";
+import eventRouter from "./routes/event.routes";
 
 const application = async () => {
   try {
@@ -38,6 +39,7 @@ const application = async () => {
 
     logger.info("Sequelize with Postgres Connected");
     app.use("/api/v1/jobs", jobRouter);
+    app.use("/api/v1/events" , eventRouter)
     app.use(globalErrorMiddleware);
 
     return app;

@@ -1124,3 +1124,46 @@
     at FrameManager.#removeFramesRecursively (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/FrameManager.ts:575:11)
     at FrameManager.#onClientDisconnect (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/FrameManager.ts:130:36)
 [2025-08-05T17:34:57.290] [WARN] default - No jobs
+[2025-08-05T18:04:19.220] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:04:19.224] [INFO] default - Application start on Port 9090
+[2025-08-05T18:04:24.084] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 18:04:24 GMT+0530 (India Standard Time)
+[2025-08-05T18:04:24.107] [INFO] default - job:scrapper-remote-co is push to queue :: queue_scrapping 
+[2025-08-05T18:04:24.117] [INFO] default - Scrapping worker start they job 4
+[2025-08-05T18:04:24.127] [INFO] default - Remote.co started for scrapping
+[2025-08-05T18:04:27.316] [INFO] default - Opened remote.co jobs page
+[2025-08-05T18:04:27.471] [WARN] default - No jobs
+[2025-08-05T18:04:34.037] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:04:34 GMT+0530 (India Standard Time)
+[2025-08-05T18:04:45.444] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:04:45 GMT+0530 (India Standard Time)
+[2025-08-05T18:05:39.201] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:05:39.204] [INFO] default - Application start on Port 9090
+[2025-08-05T18:05:46.944] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:05:46.948] [INFO] default - Application start on Port 9090
+[2025-08-05T18:05:59.870] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:05:59.872] [INFO] default - Application start on Port 9090
+[2025-08-05T18:06:04.216] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:04 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:25.325] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:06:25.328] [INFO] default - Application start on Port 9090
+[2025-08-05T18:06:42.136] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:06:42.139] [INFO] default - Application start on Port 9090
+[2025-08-05T18:06:45.296] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:45 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:45.297] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:06:56.923] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:56 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:56.924] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:06:57.821] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:57 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:57.821] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:06:58.611] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:58 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:58.612] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:06:59.491] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:59 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:59.491] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:07:40.910] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:07:40.913] [INFO] default - Application start on Port 9090
+[2025-08-05T18:07:53.078] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 18:07:53 GMT+0530 (India Standard Time)
+[2025-08-05T18:07:53.119] [INFO] default - job:scrapper-remote-co is push to queue :: queue_scrapping 
+[2025-08-05T18:07:53.131] [INFO] default - Scrapping worker start they job 5
+[2025-08-05T18:07:53.147] [INFO] default - Remote.co started for scrapping
+[2025-08-05T18:07:57.862] [INFO] default - Opened remote.co jobs page
+[2025-08-05T18:07:58.002] [WARN] default - No jobs
+[2025-08-05T18:08:04.733] [INFO] default - GET localhost /api/v1/events/check-event/b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2 Tue Aug 05 2025 18:08:04 GMT+0530 (India Standard Time)
+[2025-08-05T18:08:04.734] [INFO] default - Check event status handler  b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2
+[2025-08-05T18:08:05.926] [INFO] default - GET localhost /api/v1/events/check-event/b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2 Tue Aug 05 2025 18:08:05 GMT+0530 (India Standard Time)
+[2025-08-05T18:08:05.926] [INFO] default - Check event status handler  b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2
