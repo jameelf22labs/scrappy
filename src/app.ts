@@ -5,6 +5,7 @@ import sequelize from "./database/sequalize-config";
 import jobRouter from "./routes/jobs.route";
 import globalErrorMiddleware from "./middleware/global.error.middleware";
 import { registerCrons } from "./scrappe/jobs";
+import registerWorker from "./queue/worker";
 
 const application = async () => {
   try {
@@ -31,6 +32,7 @@ const application = async () => {
       logger.info("Crons are registered");
     }
 
+    registerWorker();
     await sequelize.authenticate();
     await sequelize.sync({});
 

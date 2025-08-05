@@ -21,6 +21,7 @@ const scrappingWorker = new Worker<ScrappingJobData>(
         return;
       }
       await JobsQueryHelper.insertDataByBatches(50, jobs);
+      logger.info(' Successfully inserted ')
     } catch (error) {
       logger.error("Scrapping worker error "), error;
     }

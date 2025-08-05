@@ -11,6 +11,4 @@ jobRouter.post(
 
 jobRouter.get("/get-jobs", jobsHandler.handleGetAllJobs.bind(jobsHandler));
 
-jobRouter.post("/start-worker" , jobsHandler.handleStartWoker.bind(jobsHandler))
-
 export default jobRouter;

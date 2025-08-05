@@ -1,3 +1,9 @@
 import scrappingWorker from "./scrapping.worker";
 
-export { scrappingWorker };
+const registerWorker = () => {
+  if (!scrappingWorker.isRunning()) {
+    scrappingWorker.run();
+  }
+};
+
+export default registerWorker;
