@@ -238,3 +238,64 @@
 [2025-08-05T13:09:13.351] [INFO] default - Application start on Port 9090
 [2025-08-05T13:09:14.462] [INFO] default - Sequelize with Postgres Connected
 [2025-08-05T13:09:14.469] [INFO] default - Application start on Port 9090
+[2025-08-05T13:33:39.580] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:33:39.582] [INFO] default - Application start on Port 9090
+[2025-08-05T13:33:42.276] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:33:42.279] [INFO] default - Application start on Port 9090
+[2025-08-05T13:33:58.710] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:33:58.713] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:03.103] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:03.107] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:12.145] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:12.148] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:21.401] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:21.405] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:27.880] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:27.883] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:31.805] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:31.814] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:35.505] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:35.512] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:42.557] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:42.562] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:47.114] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:47.117] [INFO] default - Application start on Port 9090
+[2025-08-05T13:36:16.285] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:36:16.288] [INFO] default - Application start on Port 9090
+[2025-08-05T13:36:23.599] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:36:23.602] [INFO] default - Application start on Port 9090
+[2025-08-05T13:36:27.591] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:36:27.596] [INFO] default - Application start on Port 9090
+[2025-08-05T13:39:32.392] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:39:32.395] [INFO] default - Application start on Port 9090
+[2025-08-05T14:31:45.395] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:31:45.398] [INFO] default - Application start on Port 9090
+[2025-08-05T14:31:52.188] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 14:31:52 GMT+0530 (India Standard Time)
+[2025-08-05T14:31:52.189] [INFO] default - Remote.co started for scrapping
+[2025-08-05T14:31:58.682] [INFO] default - Opened remote.co jobs page
+[2025-08-05T14:32:00.184] [INFO] default - Going to next page: 1
+[2025-08-05T14:32:03.689] [INFO] default - Going to next page: 2
+[2025-08-05T14:32:33.691] [ERROR] default - Scraping error: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/Deferred.ts:74:28)
+    at Deferred.create (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/Deferred.ts:29:12)
+    at new LifecycleWatcher (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:148:42)
+    at CdpFrame.waitForNavigation (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/Frame.ts:233:21)
+    at CdpFrame.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at CdpPage.waitForNavigation (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/Page.ts:1775:35)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:84:14)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Object.startScrapping (/home/f22labs/Documents/work/onboard-task/scrappy/src/service/jobs.service.ts:6:18)
+    at async Object.handleStartScrapping (/home/f22labs/Documents/work/onboard-task/scrappy/src/controller/jobs.controller.ts:12:20)
+[2025-08-05T14:33:17.914] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 14:33:17 GMT+0530 (India Standard Time)
+[2025-08-05T14:33:17.915] [INFO] default - Remote.co started for scrapping
+[2025-08-05T14:33:23.568] [INFO] default - Opened remote.co jobs page
+[2025-08-05T14:33:25.201] [INFO] default - Going to next page: 1
+[2025-08-05T14:33:32.251] [INFO] default - Going to next page: 2
+[2025-08-05T14:33:37.930] [INFO] default - Going to next page: 3
+[2025-08-05T14:33:43.012] [INFO] default - Going to next page: 4
+[2025-08-05T14:33:48.154] [INFO] default - Going to next page: 5
+[2025-08-05T14:33:53.218] [INFO] default - Going to next page: 6
+[2025-08-05T14:33:57.905] [INFO] default - Going to next page: 7
+[2025-08-05T14:34:01.688] [INFO] default - Going to next page: 8
+[2025-08-05T14:34:05.595] [INFO] default - Going to next page: 9
+[2025-08-05T14:34:10.966] [INFO] default - Going to next page: 10
