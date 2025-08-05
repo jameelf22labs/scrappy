@@ -12,7 +12,12 @@ const application = async () => {
   try {
     const app = express();
 
-    app.use(cors());
+    app.use(
+      cors({
+        origin: ["http://localhost:5173"],
+        credentials: true,
+      })
+    );
     app.use(express.json());
     app.use(express.urlencoded({ extended: true }));
 
@@ -39,7 +44,7 @@ const application = async () => {
 
     logger.info("Sequelize with Postgres Connected");
     app.use("/api/v1/jobs", jobRouter);
-    app.use("/api/v1/events" , eventRouter)
+    app.use("/api/v1/events", eventRouter);
     app.use(globalErrorMiddleware);
 
     return app;

@@ -5,7 +5,7 @@ const eventRouter = Router();
 const eventHandler = new EventHandler();
 
 eventRouter.get(
-  "/check-event/:id",
+  "/status/:id",
   eventHandler.handleCheckEventStatus.bind(eventHandler)
 );
 

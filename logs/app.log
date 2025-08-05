@@ -1167,3 +1167,339 @@
 [2025-08-05T18:08:04.734] [INFO] default - Check event status handler  b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2
 [2025-08-05T18:08:05.926] [INFO] default - GET localhost /api/v1/events/check-event/b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2 Tue Aug 05 2025 18:08:05 GMT+0530 (India Standard Time)
 [2025-08-05T18:08:05.926] [INFO] default - Check event status handler  b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2
+[2025-08-05T18:36:43.681] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:36:43.683] [INFO] default - Application start on Port 9090
+[2025-08-05T22:41:45.508] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:41:45.510] [INFO] default - Application start on Port 9090
+[2025-08-05T22:57:59.496] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:57:59.498] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:10.249] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:10.251] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:24.822] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:24.825] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:30.298] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:30.301] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:36.666] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:36.669] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:44.091] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:44.093] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:47.911] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:47.913] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:11.491] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:11.493] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:34.666] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:34.668] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:39.665] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:39.667] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:50.555] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:50.557] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:55.953] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:55.956] [INFO] default - Application start on Port 9090
+[2025-08-05T23:00:17.510] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:00:17.512] [INFO] default - Application start on Port 9090
+[2025-08-05T23:00:28.115] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:00:28.118] [INFO] default - Application start on Port 9090
+[2025-08-05T23:01:06.907] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:01:06.910] [INFO] default - Application start on Port 9090
+[2025-08-05T23:01:25.523] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:01:25.525] [INFO] default - Application start on Port 9090
+[2025-08-05T23:02:08.152] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:02:08.154] [INFO] default - Application start on Port 9090
+[2025-08-05T23:02:25.126] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:02:25.129] [INFO] default - Application start on Port 9090
+[2025-08-05T23:03:06.620] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:03:06.623] [INFO] default - Application start on Port 9090
+[2025-08-05T23:06:19.779] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:06:19.782] [INFO] default - Application start on Port 9090
+[2025-08-05T23:06:40.079] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:06:40.082] [INFO] default - Application start on Port 9090
+[2025-08-05T23:06:45.802] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:06:45.805] [INFO] default - Application start on Port 9090
+[2025-08-05T23:06:56.549] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:06:56.551] [INFO] default - Application start on Port 9090
+[2025-08-05T23:07:04.247] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:07:04.249] [INFO] default - Application start on Port 9090
+[2025-08-05T23:12:29.249] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:12:29.251] [INFO] default - Application start on Port 9090
+[2025-08-05T23:12:49.695] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:12:49.697] [INFO] default - Application start on Port 9090
+[2025-08-05T23:12:57.718] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:12:57.720] [INFO] default - Application start on Port 9090
+[2025-08-05T23:37:44.022] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:37:44.025] [INFO] default - Application start on Port 9090
+[2025-08-06T00:29:44.087] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:44 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:44.153] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:44 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:47.070] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:47 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:47.081] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:47 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:58.071] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:58 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:58.108] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:58 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:05.178] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:05 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:05.189] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:05 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:08.169] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:08 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:08.178] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:08 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:10.168] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:10 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:10.177] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:10 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:12.167] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:12 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:12.176] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:12 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:18.070] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:18 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:18.078] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:18 GMT+0530 (India Standard Time)
+[2025-08-06T00:38:02.119] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:38:02 GMT+0530 (India Standard Time)
+[2025-08-06T00:38:02.150] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:38:02 GMT+0530 (India Standard Time)
+[2025-08-06T00:38:52.628] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T00:38:52.633] [INFO] default - Application start on Port 9090
+[2025-08-06T00:39:07.077] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T00:39:07.082] [INFO] default - Application start on Port 9090
+[2025-08-06T00:39:12.400] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:39:12 GMT+0530 (India Standard Time)
+[2025-08-06T00:39:12.401] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:39:12.441] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:39:12 GMT+0530 (India Standard Time)
+[2025-08-06T00:39:12.442] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:39:42.972] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T00:39:42.978] [INFO] default - Application start on Port 9090
+[2025-08-06T00:39:46.873] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:39:46 GMT+0530 (India Standard Time)
+[2025-08-06T00:39:46.876] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:40:38.149] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:40:38 GMT+0530 (India Standard Time)
+[2025-08-06T00:40:38.151] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:42:18.482] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T00:42:18.484] [INFO] default - Application start on Port 9090
+[2025-08-06T00:42:18.907] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:42:18 GMT+0530 (India Standard Time)
+[2025-08-06T00:42:18.908] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:42:18.931] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:42:18 GMT+0530 (India Standard Time)
+[2025-08-06T00:42:18.932] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:42:19.010] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:42:19 GMT+0530 (India Standard Time)
+[2025-08-06T00:42:19.011] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:43:48.516] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:43:48 GMT+0530 (India Standard Time)
+[2025-08-06T00:43:48.516] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:43:48.532] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:43:48 GMT+0530 (India Standard Time)
+[2025-08-06T00:43:48.533] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:43:48.574] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:43:48 GMT+0530 (India Standard Time)
+[2025-08-06T00:43:48.575] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:49:55.081] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:49:55 GMT+0530 (India Standard Time)
+[2025-08-06T00:49:55.082] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:49:55.102] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:49:55 GMT+0530 (India Standard Time)
+[2025-08-06T00:49:55.103] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:49:55.129] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:49:55 GMT+0530 (India Standard Time)
+[2025-08-06T00:49:55.130] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:45.827] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:45 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:45.828] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:45.845] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:45 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:45.846] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:45.872] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:45 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:45.873] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:49.356] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:49 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:49.356] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:49.390] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:49 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:49.391] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:19.237] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:19 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:19.238] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:19.259] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:19 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:19.259] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:19.293] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:19 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:19.294] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:29.479] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:29.480] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:29.488] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:29.489] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:29.526] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:29.526] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:26.773] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:26 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:26.773] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:26.790] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:26 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:26.791] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:33.253] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:33 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:33.254] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:33.259] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:33 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:33.259] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:33.282] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:33 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:33.283] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:28:58.085] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:28:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:28:58.085] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:28:58.099] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:28:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:28:58.100] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:28:58.117] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:28:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:28:58.117] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:18.069] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:18.069] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:18.087] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:18.087] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:20.417] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:20 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:20.418] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:20.424] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:20 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:20.425] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:20.441] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:20 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:20.441] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:09.893] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:09 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:09.894] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:09.929] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:09 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:09.930] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:11.890] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:11 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:11.891] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:11.908] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:11 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:11.909] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:12.665] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:12 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:12.666] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:12.682] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:12 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:12.683] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:14.367] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:14 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:14.368] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:14.387] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:14 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:14.388] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:15.880] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:15.881] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:15.900] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:15.900] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:17.696] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:17 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:17.697] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:17.713] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:17 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:17.714] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:18.512] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:18.513] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:18.530] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:18.531] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:32.166] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:32 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:32.167] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:32.181] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:32 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:32.182] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:32.213] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:32 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:32.214] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:34:41.902] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:34:41 GMT+0530 (India Standard Time)
+[2025-08-06T01:34:41.903] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:34:42.743] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:34:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:34:42.745] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:39.160] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:39 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:39.160] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:39.174] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:39 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:39.174] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:41.363] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:41 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:41.364] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:43.514] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:43 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:43.515] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:45.414] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:45 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:45.415] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:46.236] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:46 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:46.237] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:46.682] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:46 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:46.683] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:39:13.071] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:39:13 GMT+0530 (India Standard Time)
+[2025-08-06T01:39:13.071] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:39:13.086] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:39:13 GMT+0530 (India Standard Time)
+[2025-08-06T01:39:13.087] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:39:25.075] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:39:25 GMT+0530 (India Standard Time)
+[2025-08-06T01:39:25.076] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:40:41.079] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:40:41 GMT+0530 (India Standard Time)
+[2025-08-06T01:40:41.079] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:35.648] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:35.649] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:48.958] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:48 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:48.958] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:49.424] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:49 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:49.425] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:55.908] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:55 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:55.908] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:58.292] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:58.294] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:44:04.642] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:44:04 GMT+0530 (India Standard Time)
+[2025-08-06T01:44:04.644] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:44:16.005] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:44:16 GMT+0530 (India Standard Time)
+[2025-08-06T01:44:16.006] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:44:24.273] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:44:24 GMT+0530 (India Standard Time)
+[2025-08-06T01:44:24.274] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:44:29.869] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:44:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:44:29.870] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:28.787] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:28 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:28.787] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:29.184] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:29.186] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:29.311] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:29.312] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:30.631] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:30 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:30.633] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:30.795] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:30 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:30.796] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:31.053] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:31 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:31.055] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:53:04.176] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:53:04 GMT+0530 (India Standard Time)
+[2025-08-06T01:53:04.178] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:35.034] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:35.035] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:35.340] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:35.341] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:35.509] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:35.509] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:35.679] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:35.681] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:37.579] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:37 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:37.581] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:37.862] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:37 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:37.864] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:38.177] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:38 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:38.177] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:42.473] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:42.474] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:15.073] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:15.074] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:15.447] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:15.448] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:15.670] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:15.671] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:17.013] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:17 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:17.014] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:17.280] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:17 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:17.281] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:18.080] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:18.080] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:42.355] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:42.355] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:42.527] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:42.527] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:42.758] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:42.759] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:43.410] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:43 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:43.411] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:43.660] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:43 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:43.660] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:52.483] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:52 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:52.485] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:52.618] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:52 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:52.619] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:52.747] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:52 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:52.748] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:52.861] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:52 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:52.861] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:53.023] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:53 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:53.024] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:53.154] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:53 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:53.154] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:53.504] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:53 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:53.506] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.005] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.007] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.034] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.035] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.064] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.065] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.096] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.096] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.126] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.127] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.157] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.157] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:56.933] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:56 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:56.934] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.088] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.089] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.205] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.207] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.340] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.342] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.461] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.463] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.789] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.791] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:58.290] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:58.291] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:58.320] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:58.320] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:58.350] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:58.350] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:58.380] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:58.381] [INFO] default - Get all jobs handler invoked

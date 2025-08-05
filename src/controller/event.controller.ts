@@ -2,9 +2,11 @@ import { NextFunction, Request, Response } from "express";
 import HandleException from "../common/decors/handle.exception.decor";
 import Events from "../database/models/Events.model";
 import logger from "../config/logger-config";
+import ApiResponse from "../common/decors/api.response.decor";
 
 export default class EventHandler {
   @HandleException
+  @ApiResponse
   async handleCheckEventStatus(
     request: Request,
     response: Response,
@@ -12,7 +14,7 @@ export default class EventHandler {
   ) {
     const { id } = request.params;
 
-    logger.info('Check event status handler ' , id)
+    logger.info("Check event status handler ", id);
 
     if (!id) {
       throw new Error("Bad request id is required");
@@ -26,12 +28,16 @@ export default class EventHandler {
       });
     }
 
-    return response.status(200).json({
-      id: event.id,
-      status: event.status,
-      isError: event.isError,
-      errorMessage: event.errorMessage,
-      data: event.data,
-    });
+    return {
+      data: {
+        event: {
+          id: event.id,
+          status: event.status,
+          isError: event.isError,
+          errorMessage: event.errorMessage,
+          data: event.data,
+        },
+      },
+    };
   }
 }
