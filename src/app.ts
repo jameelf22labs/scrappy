@@ -4,6 +4,7 @@ import logger from "./config/logger-config";
 import sequelize from "./database/sequalize-config";
 import jobRouter from "./routes/jobs.route";
 import globalErrorMiddleware from "./middleware/global.error.middleware";
+import { registerCrons } from "./scrappe/jobs";
 
 const application = async () => {
   try {
@@ -24,6 +25,11 @@ const application = async () => {
         message: "Hello World",
       });
     });
+
+    if (process.env.NODE_ENV === "cron") {
+      registerCrons();
+      logger.info("Crons are registered");
+    }
 
     await sequelize.authenticate();
     await sequelize.sync({});

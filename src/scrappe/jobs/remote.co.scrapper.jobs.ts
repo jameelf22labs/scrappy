@@ -1,11 +1,14 @@
 import nodeCron from "node-cron";
 import { scrappeRemoteCo } from "..";
 import logger from "../../config/logger-config";
-import { hashObject } from "../../common/utils/utility";
 import JobsQueryHelper from "../../database/helpers/job.query.helper";
 
 export const runRemoteCoJob = () => {
-  nodeCron.schedule("0 0 * * *", async () => {
+  nodeCron.schedule("0 0 * * *", async (task) => {
+    logger.info(
+      " remote.co jobs was scheduled ",
+      task.triggeredAt.toISOString()
+    );
     try {
       const jobs = await scrappeRemoteCo({ paginationLimit: 10 });
 
@@ -14,12 +17,7 @@ export const runRemoteCoJob = () => {
         return;
       }
 
-      const jobsWithHash = jobs.map((job) => ({
-        ...job,
-        haskey: hashObject(job),
-      }));
-
-      await JobsQueryHelper.insertDataByBatches(50, jobsWithHash);
+      await JobsQueryHelper.insertDataByBatches(50, jobs);
     } catch (error) {
       logger.error("Error running Remote.co job", error);
     }

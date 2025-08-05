@@ -3,6 +3,7 @@ import { PupperterConfigOptions } from "../types";
 import { ScrappedJobsTypes } from "../../common/types/jobs.types";
 import logger from "../../config/logger-config";
 import { getAttribute, getTextContent } from "../utils/dom.utils";
+import { hashObject } from "../../common/utils/utility";
 
 const extractJobFromCard = async (
   jobCard: ElementHandle<Element>
@@ -29,6 +30,7 @@ const extractJobFromCard = async (
     remote,
     jobType,
     salary,
+    hasKey: "",
   };
 };
 
@@ -59,7 +61,11 @@ export const scrappeRecentJobs = async (
       for (const card of jobCards) {
         try {
           const job = await extractJobFromCard(card);
-          jobs.push(job);
+
+          if (job.jobTitle.length > 0) {
+            jobs.push({ ...job, hasKey: hashObject(job) });
+          }
+          
         } catch (err) {
           logger.warn("Error from extract", err);
         }
