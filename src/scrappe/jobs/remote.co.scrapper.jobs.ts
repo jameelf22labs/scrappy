@@ -4,7 +4,7 @@ import logger from "../../config/logger-config";
 import JobsQueryHelper from "../../database/helpers/job.query.helper";
 
 export const runRemoteCoJob = () => {
-  nodeCron.schedule("0 0 * * *", async (task) => {
+  nodeCron.schedule("*/2 * * * *", async (task) => {
     logger.info(
       " remote.co jobs was scheduled ",
       task.triggeredAt.toISOString()
@@ -18,6 +18,7 @@ export const runRemoteCoJob = () => {
       }
 
       await JobsQueryHelper.insertDataByBatches(50, jobs);
+      logger.info("Jobs are inserted Successfully");
     } catch (error) {
       logger.error("Error running Remote.co job", error);
     }

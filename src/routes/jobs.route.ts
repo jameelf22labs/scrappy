@@ -9,4 +9,6 @@ jobRouter.post(
   jobsHandler.handleStartScrapping.bind(jobsHandler)
 );
 
+jobRouter.get("/get-jobs", jobsHandler.handleGetAllJobs.bind(jobsHandler));
+
 export default jobRouter;
