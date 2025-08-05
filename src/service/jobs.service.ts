@@ -3,12 +3,26 @@ import Jobs from "../database/models/Jobs.model";
 import { Op } from "sequelize";
 import QueueLib from "../queue/queue.lib";
 import { JobName, QueueName } from "../queue/constant";
+import Events from "../database/models/Events.model";
+import { v4 } from "uuid";
+import { EventStatus } from "../database/types";
 
 export const JobService = {
   startScrapping: async (paginationLimit: number) => {
+    const event = await Events.create({
+      id: v4(),
+      errorMessage: "",
+      data: "",
+      isError: false,
+      status: EventStatus.Pause,
+    });
+
     QueueLib.enQueue(JobName.ScrappeRemoteco, QueueName.Scrapping, {
       paginationLimit,
+      eventId: event.id,
     });
+
+    return event.id
   },
 
   getAllJobs: async (queryParams: JobQueryParams) => {

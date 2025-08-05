@@ -10,11 +10,13 @@ export class JobsHandler {
     response: Response,
     next: NextFunction
   ) {
-    await JobService.startScrapping(request.body);
+    const eventId = await JobService.startScrapping(request.body);
     return response.status(200).json({
       status: true,
       message: "Scraping started successfully",
-      data: [],
+      data: {
+        eventId,
+      },
     });
   }
 

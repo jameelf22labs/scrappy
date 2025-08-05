@@ -1113,3 +1113,14 @@
 [2025-08-05T17:34:11.632] [INFO] default - Application start on Port 9090
 [2025-08-05T17:34:22.837] [INFO] default - Sequelize with Postgres Connected
 [2025-08-05T17:34:22.841] [INFO] default - Application start on Port 9090
+[2025-08-05T17:34:52.758] [INFO] default - Scrapping worker start they job 3
+[2025-08-05T17:34:52.759] [INFO] default - Remote.co started for scrapping
+[2025-08-05T17:34:57.074] [ERROR] default - Scraping error: Error: Navigating frame was detached
+    at LifecycleWatcher.#onFrameDetached (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:188:9)
+    at /home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/lib/cjs/third_party/mitt/mitt.js:62:7
+    at Array.map (<anonymous>)
+    at Object.emit (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/lib/cjs/third_party/mitt/mitt.js:61:20)
+    at CdpFrame.emit (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/common/EventEmitter.ts:135:19)
+    at FrameManager.#removeFramesRecursively (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/FrameManager.ts:575:11)
+    at FrameManager.#onClientDisconnect (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/FrameManager.ts:130:36)
+[2025-08-05T17:34:57.290] [WARN] default - No jobs
