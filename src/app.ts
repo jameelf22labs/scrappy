@@ -2,6 +2,8 @@ import express from "express";
 import cors from "cors";
 import logger from "./config/logger-config";
 import sequelize from "./database/sequalize-config";
+import jobRouter from "./routes/jobs.route";
+import globalErrorMiddleware from "./middleware/global.error.middleware";
 
 const application = async () => {
   try {
@@ -27,6 +29,8 @@ const application = async () => {
     await sequelize.sync({});
 
     logger.info("Sequelize with Postgres Connected");
+    app.use("/api/v1/jobs", jobRouter);
+    app.use(globalErrorMiddleware);
 
     return app;
   } catch (error) {

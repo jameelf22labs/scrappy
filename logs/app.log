@@ -1,2 +1,240 @@
 [2025-08-05T10:41:12.615] [INFO] default - Sequelize with Postgres Connected
 [2025-08-05T10:41:12.617] [INFO] default - Application start on Port 9090
+[2025-08-05T12:00:22.637] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:00:22.639] [INFO] default - Application start on Port 9090
+[2025-08-05T12:00:38.725] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:00:38.729] [INFO] default - Application start on Port 9090
+[2025-08-05T12:01:42.686] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:01:42.690] [INFO] default - Application start on Port 9090
+[2025-08-05T12:01:57.518] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:01:57.521] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:02.450] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:02.453] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:07.545] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:07.548] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:19.897] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:19.900] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:28.929] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:28.932] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:42.450] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:42.452] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:53.147] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:53.149] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:05.190] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:05.192] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:08.836] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:08.838] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:15.702] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:15.705] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:30.439] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:30.442] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:39.113] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:39.118] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:46.384] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:46.388] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:56.522] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:56.524] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:05.866] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:05.869] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:15.565] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:15.567] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:19.207] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:19.209] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:29.076] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:29.079] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:44.144] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:44.147] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:50.839] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:50.841] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:10.990] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:10.993] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:21.489] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:21.491] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:28.298] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:28.301] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:36.628] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:36.631] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:44.185] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:44.187] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:53.357] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:53.360] [INFO] default - Application start on Port 9090
+[2025-08-05T12:12:22.898] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:12:22.901] [INFO] default - Application start on Port 9090
+[2025-08-05T12:12:32.594] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:12:32.597] [INFO] default - Application start on Port 9090
+[2025-08-05T12:13:05.671] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:13:05.674] [INFO] default - Application start on Port 9090
+[2025-08-05T12:21:35.295] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:21:35.298] [INFO] default - Application start on Port 9090
+[2025-08-05T12:21:46.844] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:21:46.848] [INFO] default - Application start on Port 9090
+[2025-08-05T12:24:17.648] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:24:17 GMT+0530 (India Standard Time)
+[2025-08-05T12:24:39.080] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:24:39.083] [INFO] default - Application start on Port 9090
+[2025-08-05T12:24:55.691] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:24:55.693] [INFO] default - Application start on Port 9090
+[2025-08-05T12:25:07.266] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:25:07.269] [INFO] default - Application start on Port 9090
+[2025-08-05T12:25:15.962] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:25:15.965] [INFO] default - Application start on Port 9090
+[2025-08-05T12:25:23.401] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:25:23.404] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:05.788] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:05.791] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:11.498] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:11.501] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:17.288] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:17.291] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:31.704] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:31.708] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:39.945] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:39.948] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:46.406] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:46.409] [INFO] default - Application start on Port 9090
+[2025-08-05T12:27:02.738] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:27:02.741] [INFO] default - Application start on Port 9090
+[2025-08-05T12:27:09.101] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:27:09.105] [INFO] default - Application start on Port 9090
+[2025-08-05T12:27:38.963] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:27:38.966] [INFO] default - Application start on Port 9090
+[2025-08-05T12:28:12.459] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:28:12.462] [INFO] default - Application start on Port 9090
+[2025-08-05T12:28:20.035] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:28:20.038] [INFO] default - Application start on Port 9090
+[2025-08-05T12:28:32.238] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:28:32.241] [INFO] default - Application start on Port 9090
+[2025-08-05T12:28:35.916] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:28:35.919] [INFO] default - Application start on Port 9090
+[2025-08-05T12:29:26.534] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:29:26.537] [INFO] default - Application start on Port 9090
+[2025-08-05T12:29:31.482] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:29:31.485] [INFO] default - Application start on Port 9090
+[2025-08-05T12:29:58.480] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:29:58.482] [INFO] default - Application start on Port 9090
+[2025-08-05T12:30:02.301] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:30:02.303] [INFO] default - Application start on Port 9090
+[2025-08-05T12:30:08.352] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:30:08.355] [INFO] default - Application start on Port 9090
+[2025-08-05T12:30:31.911] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:30:31.914] [INFO] default - Application start on Port 9090
+[2025-08-05T12:30:42.673] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:30:42.676] [INFO] default - Application start on Port 9090
+[2025-08-05T12:31:10.151] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:31:10.155] [INFO] default - Application start on Port 9090
+[2025-08-05T12:31:17.299] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:31:17.303] [INFO] default - Application start on Port 9090
+[2025-08-05T12:31:23.343] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:31:23.346] [INFO] default - Application start on Port 9090
+[2025-08-05T12:33:46.226] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:33:46.229] [INFO] default - Application start on Port 9090
+[2025-08-05T12:33:54.119] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:33:54.121] [INFO] default - Application start on Port 9090
+[2025-08-05T12:34:10.230] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:34:10 GMT+0530 (India Standard Time)
+[2025-08-05T12:34:48.071] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:34:48.074] [INFO] default - Application start on Port 9090
+[2025-08-05T12:34:56.452] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:34:56.455] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:05.448] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:05.450] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:12.138] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:12.140] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:33.037] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:33.040] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:43.645] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:43.648] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:53.298] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:53.301] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:59.591] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:59.594] [INFO] default - Application start on Port 9090
+[2025-08-05T12:36:09.005] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:36:09.008] [INFO] default - Application start on Port 9090
+[2025-08-05T12:36:18.748] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:36:18 GMT+0530 (India Standard Time)
+[2025-08-05T12:36:18.749] [INFO] default - Remote.co started for scrapping
+[2025-08-05T12:36:23.335] [INFO] default - remote.co page opened
+[2025-08-05T12:37:40.566] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:37:40.569] [INFO] default - Application start on Port 9090
+[2025-08-05T12:38:04.073] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:38:04.077] [INFO] default - Application start on Port 9090
+[2025-08-05T12:39:21.109] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:39:21.112] [INFO] default - Application start on Port 9090
+[2025-08-05T12:39:40.579] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:39:40.583] [INFO] default - Application start on Port 9090
+[2025-08-05T12:39:46.683] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:39:46.686] [INFO] default - Application start on Port 9090
+[2025-08-05T12:40:35.182] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:40:35.184] [INFO] default - Application start on Port 9090
+[2025-08-05T12:41:00.184] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:41:00.187] [INFO] default - Application start on Port 9090
+[2025-08-05T12:41:04.722] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:41:04.725] [INFO] default - Application start on Port 9090
+[2025-08-05T12:41:10.233] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:41:10.236] [INFO] default - Application start on Port 9090
+[2025-08-05T12:41:13.279] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:41:13 GMT+0530 (India Standard Time)
+[2025-08-05T12:41:13.280] [INFO] default - Remote.co started for scrapping
+[2025-08-05T12:41:17.367] [INFO] default - remote.co page opened
+[2025-08-05T12:41:17.409] [ERROR] default - Page goto error :  DOMException: SyntaxError: Failed to execute 'querySelectorAll' on 'Document': '#08474ebd-4160-492d-bfa8-b87a902efb99' is not a valid selector.
+    at evaluateHandle (evaluateHandle at CSSQueryHandler.queryAll (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/lib/cjs/puppeteer/common/QueryHandler.js:116:73), <anonymous>:1:15)
+    at ExecutionContext.#evaluate (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/ExecutionContext.ts:452:34)
+    at async ExecutionContext.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/ExecutionContext.ts:350:12)
+    at async IsolatedWorld.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:175:12)
+    at async CdpJSHandle.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/JSHandle.ts:94:12)
+    at async CdpElementHandle.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:313:12)
+    at async CSSQueryHandler.queryAll (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/common/QueryHandler.ts:108:20)
+    at async AsyncIterableUtil.collect (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/AsyncIterableUtil.ts:32:22)
+    at async CdpElementHandle.#$$impl (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:446:12)
+    at async CdpElementHandle.#$$ (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:433:12)
+[2025-08-05T12:41:54.956] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:41:54.958] [INFO] default - Application start on Port 9090
+[2025-08-05T12:42:03.768] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:42:03 GMT+0530 (India Standard Time)
+[2025-08-05T12:42:03.769] [INFO] default - Remote.co started for scrapping
+[2025-08-05T12:42:08.629] [INFO] default - remote.co page opened
+[2025-08-05T12:43:12.345] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:43:12.348] [INFO] default - Application start on Port 9090
+[2025-08-05T12:43:12.373] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:43:12 GMT+0530 (India Standard Time)
+[2025-08-05T12:43:12.374] [INFO] default - Remote.co started for scrapping
+[2025-08-05T12:43:17.141] [INFO] default - remote.co page opened
+[2025-08-05T12:43:44.375] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:43:44.377] [INFO] default - Application start on Port 9090
+[2025-08-05T12:44:24.334] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:44:24.336] [INFO] default - Application start on Port 9090
+[2025-08-05T12:44:41.042] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:44:41.044] [INFO] default - Application start on Port 9090
+[2025-08-05T12:45:15.459] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:45:15.462] [INFO] default - Application start on Port 9090
+[2025-08-05T12:45:27.783] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:45:27.786] [INFO] default - Application start on Port 9090
+[2025-08-05T12:45:34.265] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:45:34.268] [INFO] default - Application start on Port 9090
+[2025-08-05T12:53:59.385] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:53:59.388] [INFO] default - Application start on Port 9090
+[2025-08-05T12:54:46.937] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:54:46.942] [INFO] default - Application start on Port 9090
+[2025-08-05T12:54:59.110] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:54:59.115] [INFO] default - Application start on Port 9090
+[2025-08-05T12:55:38.202] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:55:38.207] [INFO] default - Application start on Port 9090
+[2025-08-05T12:56:27.255] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:56:27.260] [INFO] default - Application start on Port 9090
+[2025-08-05T12:57:30.617] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:57:30.622] [INFO] default - Application start on Port 9090
+[2025-08-05T12:58:28.476] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:58:28.480] [INFO] default - Application start on Port 9090
+[2025-08-05T12:58:48.020] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:58:48.026] [INFO] default - Application start on Port 9090
+[2025-08-05T12:58:58.865] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:58:58.871] [INFO] default - Application start on Port 9090
+[2025-08-05T13:03:11.031] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:03:11.036] [INFO] default - Application start on Port 9090
+[2025-08-05T13:05:46.276] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:05:46.281] [INFO] default - Application start on Port 9090
+[2025-08-05T13:05:59.583] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:05:59.589] [INFO] default - Application start on Port 9090
+[2025-08-05T13:07:15.593] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:07:15.597] [INFO] default - Application start on Port 9090
+[2025-08-05T13:07:56.627] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 13:07:56 GMT+0530 (India Standard Time)
+[2025-08-05T13:07:56.629] [INFO] default - Remote.co started for scrapping
+[2025-08-05T13:08:02.598] [INFO] default - remote.co page opened
+[2025-08-05T13:09:13.346] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:09:13.351] [INFO] default - Application start on Port 9090
+[2025-08-05T13:09:14.462] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:09:14.469] [INFO] default - Application start on Port 9090
