@@ -1,2 +1,1817 @@
 [2025-08-05T10:41:12.615] [INFO] default - Sequelize with Postgres Connected
 [2025-08-05T10:41:12.617] [INFO] default - Application start on Port 9090
+[2025-08-05T12:00:22.637] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:00:22.639] [INFO] default - Application start on Port 9090
+[2025-08-05T12:00:38.725] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:00:38.729] [INFO] default - Application start on Port 9090
+[2025-08-05T12:01:42.686] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:01:42.690] [INFO] default - Application start on Port 9090
+[2025-08-05T12:01:57.518] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:01:57.521] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:02.450] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:02.453] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:07.545] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:07.548] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:19.897] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:19.900] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:28.929] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:28.932] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:42.450] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:42.452] [INFO] default - Application start on Port 9090
+[2025-08-05T12:02:53.147] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:02:53.149] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:05.190] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:05.192] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:08.836] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:08.838] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:15.702] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:15.705] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:30.439] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:30.442] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:39.113] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:39.118] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:46.384] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:46.388] [INFO] default - Application start on Port 9090
+[2025-08-05T12:03:56.522] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:03:56.524] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:05.866] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:05.869] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:15.565] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:15.567] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:19.207] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:19.209] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:29.076] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:29.079] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:44.144] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:44.147] [INFO] default - Application start on Port 9090
+[2025-08-05T12:04:50.839] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:04:50.841] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:10.990] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:10.993] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:21.489] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:21.491] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:28.298] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:28.301] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:36.628] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:36.631] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:44.185] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:44.187] [INFO] default - Application start on Port 9090
+[2025-08-05T12:11:53.357] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:11:53.360] [INFO] default - Application start on Port 9090
+[2025-08-05T12:12:22.898] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:12:22.901] [INFO] default - Application start on Port 9090
+[2025-08-05T12:12:32.594] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:12:32.597] [INFO] default - Application start on Port 9090
+[2025-08-05T12:13:05.671] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:13:05.674] [INFO] default - Application start on Port 9090
+[2025-08-05T12:21:35.295] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:21:35.298] [INFO] default - Application start on Port 9090
+[2025-08-05T12:21:46.844] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:21:46.848] [INFO] default - Application start on Port 9090
+[2025-08-05T12:24:17.648] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:24:17 GMT+0530 (India Standard Time)
+[2025-08-05T12:24:39.080] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:24:39.083] [INFO] default - Application start on Port 9090
+[2025-08-05T12:24:55.691] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:24:55.693] [INFO] default - Application start on Port 9090
+[2025-08-05T12:25:07.266] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:25:07.269] [INFO] default - Application start on Port 9090
+[2025-08-05T12:25:15.962] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:25:15.965] [INFO] default - Application start on Port 9090
+[2025-08-05T12:25:23.401] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:25:23.404] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:05.788] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:05.791] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:11.498] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:11.501] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:17.288] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:17.291] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:31.704] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:31.708] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:39.945] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:39.948] [INFO] default - Application start on Port 9090
+[2025-08-05T12:26:46.406] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:26:46.409] [INFO] default - Application start on Port 9090
+[2025-08-05T12:27:02.738] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:27:02.741] [INFO] default - Application start on Port 9090
+[2025-08-05T12:27:09.101] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:27:09.105] [INFO] default - Application start on Port 9090
+[2025-08-05T12:27:38.963] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:27:38.966] [INFO] default - Application start on Port 9090
+[2025-08-05T12:28:12.459] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:28:12.462] [INFO] default - Application start on Port 9090
+[2025-08-05T12:28:20.035] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:28:20.038] [INFO] default - Application start on Port 9090
+[2025-08-05T12:28:32.238] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:28:32.241] [INFO] default - Application start on Port 9090
+[2025-08-05T12:28:35.916] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:28:35.919] [INFO] default - Application start on Port 9090
+[2025-08-05T12:29:26.534] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:29:26.537] [INFO] default - Application start on Port 9090
+[2025-08-05T12:29:31.482] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:29:31.485] [INFO] default - Application start on Port 9090
+[2025-08-05T12:29:58.480] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:29:58.482] [INFO] default - Application start on Port 9090
+[2025-08-05T12:30:02.301] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:30:02.303] [INFO] default - Application start on Port 9090
+[2025-08-05T12:30:08.352] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:30:08.355] [INFO] default - Application start on Port 9090
+[2025-08-05T12:30:31.911] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:30:31.914] [INFO] default - Application start on Port 9090
+[2025-08-05T12:30:42.673] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:30:42.676] [INFO] default - Application start on Port 9090
+[2025-08-05T12:31:10.151] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:31:10.155] [INFO] default - Application start on Port 9090
+[2025-08-05T12:31:17.299] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:31:17.303] [INFO] default - Application start on Port 9090
+[2025-08-05T12:31:23.343] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:31:23.346] [INFO] default - Application start on Port 9090
+[2025-08-05T12:33:46.226] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:33:46.229] [INFO] default - Application start on Port 9090
+[2025-08-05T12:33:54.119] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:33:54.121] [INFO] default - Application start on Port 9090
+[2025-08-05T12:34:10.230] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:34:10 GMT+0530 (India Standard Time)
+[2025-08-05T12:34:48.071] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:34:48.074] [INFO] default - Application start on Port 9090
+[2025-08-05T12:34:56.452] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:34:56.455] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:05.448] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:05.450] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:12.138] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:12.140] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:33.037] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:33.040] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:43.645] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:43.648] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:53.298] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:53.301] [INFO] default - Application start on Port 9090
+[2025-08-05T12:35:59.591] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:35:59.594] [INFO] default - Application start on Port 9090
+[2025-08-05T12:36:09.005] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:36:09.008] [INFO] default - Application start on Port 9090
+[2025-08-05T12:36:18.748] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:36:18 GMT+0530 (India Standard Time)
+[2025-08-05T12:36:18.749] [INFO] default - Remote.co started for scrapping
+[2025-08-05T12:36:23.335] [INFO] default - remote.co page opened
+[2025-08-05T12:37:40.566] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:37:40.569] [INFO] default - Application start on Port 9090
+[2025-08-05T12:38:04.073] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:38:04.077] [INFO] default - Application start on Port 9090
+[2025-08-05T12:39:21.109] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:39:21.112] [INFO] default - Application start on Port 9090
+[2025-08-05T12:39:40.579] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:39:40.583] [INFO] default - Application start on Port 9090
+[2025-08-05T12:39:46.683] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:39:46.686] [INFO] default - Application start on Port 9090
+[2025-08-05T12:40:35.182] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:40:35.184] [INFO] default - Application start on Port 9090
+[2025-08-05T12:41:00.184] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:41:00.187] [INFO] default - Application start on Port 9090
+[2025-08-05T12:41:04.722] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:41:04.725] [INFO] default - Application start on Port 9090
+[2025-08-05T12:41:10.233] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:41:10.236] [INFO] default - Application start on Port 9090
+[2025-08-05T12:41:13.279] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:41:13 GMT+0530 (India Standard Time)
+[2025-08-05T12:41:13.280] [INFO] default - Remote.co started for scrapping
+[2025-08-05T12:41:17.367] [INFO] default - remote.co page opened
+[2025-08-05T12:41:17.409] [ERROR] default - Page goto error :  DOMException: SyntaxError: Failed to execute 'querySelectorAll' on 'Document': '#08474ebd-4160-492d-bfa8-b87a902efb99' is not a valid selector.
+    at evaluateHandle (evaluateHandle at CSSQueryHandler.queryAll (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/lib/cjs/puppeteer/common/QueryHandler.js:116:73), <anonymous>:1:15)
+    at ExecutionContext.#evaluate (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/ExecutionContext.ts:452:34)
+    at async ExecutionContext.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/ExecutionContext.ts:350:12)
+    at async IsolatedWorld.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:175:12)
+    at async CdpJSHandle.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/JSHandle.ts:94:12)
+    at async CdpElementHandle.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:313:12)
+    at async CSSQueryHandler.queryAll (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/common/QueryHandler.ts:108:20)
+    at async AsyncIterableUtil.collect (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/AsyncIterableUtil.ts:32:22)
+    at async CdpElementHandle.#$$impl (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:446:12)
+    at async CdpElementHandle.#$$ (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:433:12)
+[2025-08-05T12:41:54.956] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:41:54.958] [INFO] default - Application start on Port 9090
+[2025-08-05T12:42:03.768] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:42:03 GMT+0530 (India Standard Time)
+[2025-08-05T12:42:03.769] [INFO] default - Remote.co started for scrapping
+[2025-08-05T12:42:08.629] [INFO] default - remote.co page opened
+[2025-08-05T12:43:12.345] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:43:12.348] [INFO] default - Application start on Port 9090
+[2025-08-05T12:43:12.373] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 12:43:12 GMT+0530 (India Standard Time)
+[2025-08-05T12:43:12.374] [INFO] default - Remote.co started for scrapping
+[2025-08-05T12:43:17.141] [INFO] default - remote.co page opened
+[2025-08-05T12:43:44.375] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:43:44.377] [INFO] default - Application start on Port 9090
+[2025-08-05T12:44:24.334] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:44:24.336] [INFO] default - Application start on Port 9090
+[2025-08-05T12:44:41.042] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:44:41.044] [INFO] default - Application start on Port 9090
+[2025-08-05T12:45:15.459] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:45:15.462] [INFO] default - Application start on Port 9090
+[2025-08-05T12:45:27.783] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:45:27.786] [INFO] default - Application start on Port 9090
+[2025-08-05T12:45:34.265] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:45:34.268] [INFO] default - Application start on Port 9090
+[2025-08-05T12:53:59.385] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:53:59.388] [INFO] default - Application start on Port 9090
+[2025-08-05T12:54:46.937] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:54:46.942] [INFO] default - Application start on Port 9090
+[2025-08-05T12:54:59.110] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:54:59.115] [INFO] default - Application start on Port 9090
+[2025-08-05T12:55:38.202] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:55:38.207] [INFO] default - Application start on Port 9090
+[2025-08-05T12:56:27.255] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:56:27.260] [INFO] default - Application start on Port 9090
+[2025-08-05T12:57:30.617] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:57:30.622] [INFO] default - Application start on Port 9090
+[2025-08-05T12:58:28.476] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:58:28.480] [INFO] default - Application start on Port 9090
+[2025-08-05T12:58:48.020] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:58:48.026] [INFO] default - Application start on Port 9090
+[2025-08-05T12:58:58.865] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T12:58:58.871] [INFO] default - Application start on Port 9090
+[2025-08-05T13:03:11.031] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:03:11.036] [INFO] default - Application start on Port 9090
+[2025-08-05T13:05:46.276] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:05:46.281] [INFO] default - Application start on Port 9090
+[2025-08-05T13:05:59.583] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:05:59.589] [INFO] default - Application start on Port 9090
+[2025-08-05T13:07:15.593] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:07:15.597] [INFO] default - Application start on Port 9090
+[2025-08-05T13:07:56.627] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 13:07:56 GMT+0530 (India Standard Time)
+[2025-08-05T13:07:56.629] [INFO] default - Remote.co started for scrapping
+[2025-08-05T13:08:02.598] [INFO] default - remote.co page opened
+[2025-08-05T13:09:13.346] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:09:13.351] [INFO] default - Application start on Port 9090
+[2025-08-05T13:09:14.462] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:09:14.469] [INFO] default - Application start on Port 9090
+[2025-08-05T13:33:39.580] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:33:39.582] [INFO] default - Application start on Port 9090
+[2025-08-05T13:33:42.276] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:33:42.279] [INFO] default - Application start on Port 9090
+[2025-08-05T13:33:58.710] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:33:58.713] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:03.103] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:03.107] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:12.145] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:12.148] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:21.401] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:21.405] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:27.880] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:27.883] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:31.805] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:31.814] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:35.505] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:35.512] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:42.557] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:42.562] [INFO] default - Application start on Port 9090
+[2025-08-05T13:34:47.114] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:34:47.117] [INFO] default - Application start on Port 9090
+[2025-08-05T13:36:16.285] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:36:16.288] [INFO] default - Application start on Port 9090
+[2025-08-05T13:36:23.599] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:36:23.602] [INFO] default - Application start on Port 9090
+[2025-08-05T13:36:27.591] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:36:27.596] [INFO] default - Application start on Port 9090
+[2025-08-05T13:39:32.392] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T13:39:32.395] [INFO] default - Application start on Port 9090
+[2025-08-05T14:31:45.395] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:31:45.398] [INFO] default - Application start on Port 9090
+[2025-08-05T14:31:52.188] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 14:31:52 GMT+0530 (India Standard Time)
+[2025-08-05T14:31:52.189] [INFO] default - Remote.co started for scrapping
+[2025-08-05T14:31:58.682] [INFO] default - Opened remote.co jobs page
+[2025-08-05T14:32:00.184] [INFO] default - Going to next page: 1
+[2025-08-05T14:32:03.689] [INFO] default - Going to next page: 2
+[2025-08-05T14:32:33.691] [ERROR] default - Scraping error: TimeoutError: Navigation timeout of 30000 ms exceeded
+    at new Deferred (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/Deferred.ts:74:28)
+    at Deferred.create (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/Deferred.ts:29:12)
+    at new LifecycleWatcher (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:148:42)
+    at CdpFrame.waitForNavigation (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/Frame.ts:233:21)
+    at CdpFrame.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at CdpPage.waitForNavigation (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/Page.ts:1775:35)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:84:14)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Object.startScrapping (/home/f22labs/Documents/work/onboard-task/scrappy/src/service/jobs.service.ts:6:18)
+    at async Object.handleStartScrapping (/home/f22labs/Documents/work/onboard-task/scrappy/src/controller/jobs.controller.ts:12:20)
+[2025-08-05T14:33:17.914] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 14:33:17 GMT+0530 (India Standard Time)
+[2025-08-05T14:33:17.915] [INFO] default - Remote.co started for scrapping
+[2025-08-05T14:33:23.568] [INFO] default - Opened remote.co jobs page
+[2025-08-05T14:33:25.201] [INFO] default - Going to next page: 1
+[2025-08-05T14:33:32.251] [INFO] default - Going to next page: 2
+[2025-08-05T14:33:37.930] [INFO] default - Going to next page: 3
+[2025-08-05T14:33:43.012] [INFO] default - Going to next page: 4
+[2025-08-05T14:33:48.154] [INFO] default - Going to next page: 5
+[2025-08-05T14:33:53.218] [INFO] default - Going to next page: 6
+[2025-08-05T14:33:57.905] [INFO] default - Going to next page: 7
+[2025-08-05T14:34:01.688] [INFO] default - Going to next page: 8
+[2025-08-05T14:34:05.595] [INFO] default - Going to next page: 9
+[2025-08-05T14:34:10.966] [INFO] default - Going to next page: 10
+[2025-08-05T14:47:16.053] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:47:16.056] [INFO] default - Application start on Port 9090
+[2025-08-05T14:48:46.537] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:48:46.539] [INFO] default - Application start on Port 9090
+[2025-08-05T14:48:52.976] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:48:52.979] [INFO] default - Application start on Port 9090
+[2025-08-05T14:49:09.658] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:49:09.661] [INFO] default - Application start on Port 9090
+[2025-08-05T14:49:14.153] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:49:14.155] [INFO] default - Application start on Port 9090
+[2025-08-05T14:49:28.874] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:49:28.877] [INFO] default - Application start on Port 9090
+[2025-08-05T14:49:32.774] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:49:32.777] [INFO] default - Application start on Port 9090
+[2025-08-05T14:49:41.894] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:49:41.897] [INFO] default - Application start on Port 9090
+[2025-08-05T14:49:51.886] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:49:51.889] [INFO] default - Application start on Port 9090
+[2025-08-05T14:50:03.859] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:50:03.862] [INFO] default - Application start on Port 9090
+[2025-08-05T14:50:07.910] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:50:07.913] [INFO] default - Application start on Port 9090
+[2025-08-05T14:50:12.415] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:50:12.418] [INFO] default - Application start on Port 9090
+[2025-08-05T14:50:27.252] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:50:27.255] [INFO] default - Application start on Port 9090
+[2025-08-05T14:50:36.218] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:50:36.221] [INFO] default - Application start on Port 9090
+[2025-08-05T14:50:39.736] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:50:39.739] [INFO] default - Application start on Port 9090
+[2025-08-05T14:51:49.589] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:51:49.592] [INFO] default - Application start on Port 9090
+[2025-08-05T14:52:55.133] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:52:55.136] [INFO] default - Application start on Port 9090
+[2025-08-05T14:53:03.678] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:53:03.682] [INFO] default - Application start on Port 9090
+[2025-08-05T14:53:07.904] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:53:07.907] [INFO] default - Application start on Port 9090
+[2025-08-05T14:53:19.696] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:53:19.699] [INFO] default - Application start on Port 9090
+[2025-08-05T14:53:34.681] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:53:34.684] [INFO] default - Application start on Port 9090
+[2025-08-05T14:53:40.800] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:53:40.803] [INFO] default - Application start on Port 9090
+[2025-08-05T14:54:16.510] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:54:16.513] [INFO] default - Application start on Port 9090
+[2025-08-05T14:54:23.030] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:54:23.033] [INFO] default - Application start on Port 9090
+[2025-08-05T14:54:35.104] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:54:35.107] [INFO] default - Application start on Port 9090
+[2025-08-05T14:54:40.877] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:54:40.880] [INFO] default - Application start on Port 9090
+[2025-08-05T14:54:45.041] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:54:45.044] [INFO] default - Application start on Port 9090
+[2025-08-05T14:54:55.298] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:54:55.301] [INFO] default - Application start on Port 9090
+[2025-08-05T14:55:00.796] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:55:00.799] [INFO] default - Application start on Port 9090
+[2025-08-05T14:55:09.465] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:55:09.468] [INFO] default - Application start on Port 9090
+[2025-08-05T14:55:38.092] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:55:38.095] [INFO] default - Application start on Port 9090
+[2025-08-05T14:55:42.528] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:55:42.531] [INFO] default - Application start on Port 9090
+[2025-08-05T14:58:17.819] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:58:17.822] [INFO] default - Application start on Port 9090
+[2025-08-05T14:58:43.248] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:58:43.252] [INFO] default - Application start on Port 9090
+[2025-08-05T14:58:48.471] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:58:48.474] [INFO] default - Application start on Port 9090
+[2025-08-05T14:58:56.935] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:58:56.937] [INFO] default - Application start on Port 9090
+[2025-08-05T14:59:06.048] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:59:06.055] [INFO] default - Application start on Port 9090
+[2025-08-05T14:59:10.356] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:59:10.360] [INFO] default - Application start on Port 9090
+[2025-08-05T14:59:15.299] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:59:15.303] [INFO] default - Application start on Port 9090
+[2025-08-05T14:59:26.553] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:59:26.556] [INFO] default - Application start on Port 9090
+[2025-08-05T14:59:48.461] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T14:59:48.464] [INFO] default - Application start on Port 9090
+[2025-08-05T15:00:37.148] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:00:37.151] [INFO] default - Application start on Port 9090
+[2025-08-05T15:00:46.714] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:00:50.340] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:00:50.344] [INFO] default - Application start on Port 9090
+[2025-08-05T15:01:06.007] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:01:06.010] [INFO] default - Application start on Port 9090
+[2025-08-05T15:01:15.810] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:01:15.814] [INFO] default - Application start on Port 9090
+[2025-08-05T15:01:21.299] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:01:21.302] [INFO] default - Application start on Port 9090
+[2025-08-05T15:01:27.722] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:01:27.725] [INFO] default - Application start on Port 9090
+[2025-08-05T15:01:43.461] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:01:43.464] [INFO] default - Application start on Port 9090
+[2025-08-05T15:01:50.226] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:01:50.228] [INFO] default - Application start on Port 9090
+[2025-08-05T15:02:04.944] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:02:04.947] [INFO] default - Application start on Port 9090
+[2025-08-05T15:02:14.579] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:02:14.581] [INFO] default - Application start on Port 9090
+[2025-08-05T15:02:34.424] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:02:34.427] [INFO] default - Application start on Port 9090
+[2025-08-05T15:02:46.413] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:02:46.416] [INFO] default - Application start on Port 9090
+[2025-08-05T15:03:16.887] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:03:16.890] [INFO] default - Application start on Port 9090
+[2025-08-05T15:03:24.906] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:03:24.911] [INFO] default - Application start on Port 9090
+[2025-08-05T15:03:36.449] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:03:36.452] [INFO] default - Application start on Port 9090
+[2025-08-05T15:03:42.196] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:03:42.199] [INFO] default - Application start on Port 9090
+[2025-08-05T15:03:48.548] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:03:48.552] [INFO] default - Application start on Port 9090
+[2025-08-05T15:03:53.702] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:03:53.705] [INFO] default - Application start on Port 9090
+[2025-08-05T15:04:06.427] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:04:06.432] [INFO] default - Application start on Port 9090
+[2025-08-05T15:04:16.590] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:04:16.593] [INFO] default - Application start on Port 9090
+[2025-08-05T15:04:29.429] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:04:29.432] [INFO] default - Application start on Port 9090
+[2025-08-05T15:04:38.673] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:04:38.676] [INFO] default - Application start on Port 9090
+[2025-08-05T15:04:48.790] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:04:48.793] [INFO] default - Application start on Port 9090
+[2025-08-05T15:04:56.414] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:04:56.417] [INFO] default - Application start on Port 9090
+[2025-08-05T15:14:22.107] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:14:22.109] [INFO] default - Application start on Port 9090
+[2025-08-05T15:14:31.432] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:14:31.434] [INFO] default - Application start on Port 9090
+[2025-08-05T15:15:02.197] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:15:02.199] [INFO] default - Application start on Port 9090
+[2025-08-05T15:15:12.470] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:15:12.473] [INFO] default - Application start on Port 9090
+[2025-08-05T15:15:42.217] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:15:42.218] [INFO] default - Application start on Port 9090
+[2025-08-05T15:15:45.913] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:15:45.915] [INFO] default - Application start on Port 9090
+[2025-08-05T15:15:52.078] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:15:52.080] [INFO] default - Application start on Port 9090
+[2025-08-05T15:15:56.601] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:15:56.603] [INFO] default - Application start on Port 9090
+[2025-08-05T15:16:03.380] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:16:03.382] [INFO] default - Application start on Port 9090
+[2025-08-05T15:16:15.739] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:16:15.740] [INFO] default - Application start on Port 9090
+[2025-08-05T15:16:26.184] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:16:26.186] [INFO] default - Application start on Port 9090
+[2025-08-05T15:16:36.271] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:16:36.273] [INFO] default - Application start on Port 9090
+[2025-08-05T15:16:42.124] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:16:42.125] [INFO] default - Application start on Port 9090
+[2025-08-05T15:17:03.842] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:17:03.844] [INFO] default - Application start on Port 9090
+[2025-08-05T15:17:09.679] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:17:09.680] [INFO] default - Application start on Port 9090
+[2025-08-05T15:17:15.904] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:17:15.906] [INFO] default - Application start on Port 9090
+[2025-08-05T15:17:30.462] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:17:30.465] [INFO] default - Application start on Port 9090
+[2025-08-05T15:17:39.602] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:17:39.603] [INFO] default - Application start on Port 9090
+[2025-08-05T15:17:52.659] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:17:52.661] [INFO] default - Application start on Port 9090
+[2025-08-05T15:18:19.958] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:18:19.961] [INFO] default - Application start on Port 9090
+[2025-08-05T15:18:23.848] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:18:23.850] [INFO] default - Application start on Port 9090
+[2025-08-05T15:18:29.418] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:18:29.421] [INFO] default - Application start on Port 9090
+[2025-08-05T15:18:34.562] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:18:34.565] [INFO] default - Application start on Port 9090
+[2025-08-05T15:18:38.975] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:18:38.977] [INFO] default - Application start on Port 9090
+[2025-08-05T15:18:43.260] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:18:43.262] [INFO] default - Application start on Port 9090
+[2025-08-05T15:19:11.690] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:19:11.692] [INFO] default - Application start on Port 9090
+[2025-08-05T15:19:15.056] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:19:15.059] [INFO] default - Application start on Port 9090
+[2025-08-05T15:19:36.475] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:19:36.477] [INFO] default - Application start on Port 9090
+[2025-08-05T15:19:42.117] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:19:42.121] [INFO] default - Application start on Port 9090
+[2025-08-05T15:20:19.739] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:20:19.740] [INFO] default - Application start on Port 9090
+[2025-08-05T15:21:07.003] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:21:07.005] [INFO] default - Application start on Port 9090
+[2025-08-05T15:21:14.596] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:21:14.598] [INFO] default - Application start on Port 9090
+[2025-08-05T15:22:10.366] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:22:10.368] [INFO] default - Application start on Port 9090
+[2025-08-05T15:22:21.232] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:22:21.234] [INFO] default - Application start on Port 9090
+[2025-08-05T15:42:19.772] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:42:19.776] [INFO] default - Application start on Port 9090
+[2025-08-05T15:42:48.058] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:42:48.061] [INFO] default - Application start on Port 9090
+[2025-08-05T15:43:03.057] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:43:03.061] [INFO] default - Application start on Port 9090
+[2025-08-05T15:43:11.387] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:43:11.391] [INFO] default - Application start on Port 9090
+[2025-08-05T15:43:28.533] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:43:28.536] [INFO] default - Application start on Port 9090
+[2025-08-05T15:43:49.227] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:43:49.231] [INFO] default - Application start on Port 9090
+[2025-08-05T15:43:57.022] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:43:57.025] [INFO] default - Application start on Port 9090
+[2025-08-05T15:44:26.536] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:44:26.540] [INFO] default - Application start on Port 9090
+[2025-08-05T15:44:36.364] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:44:36.367] [INFO] default - Application start on Port 9090
+[2025-08-05T15:44:43.443] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:44:43.446] [INFO] default - Application start on Port 9090
+[2025-08-05T15:45:04.364] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:45:04.367] [INFO] default - Application start on Port 9090
+[2025-08-05T15:45:08.668] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:45:08.671] [INFO] default - Application start on Port 9090
+[2025-08-05T15:45:15.781] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:45:15.786] [INFO] default - Application start on Port 9090
+[2025-08-05T15:47:19.110] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:47:19.113] [INFO] default - Application start on Port 9090
+[2025-08-05T15:48:23.718] [INFO] default - Crons are registered
+[2025-08-05T15:48:23.767] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:48:23.769] [INFO] default - Application start on Port 9090
+[2025-08-05T15:50:00.017] [INFO] default -  remote.co jobs was scheduled  2025-08-05T10:20:00.016Z
+[2025-08-05T15:50:00.018] [INFO] default - Remote.co started for scrapping
+[2025-08-05T15:50:05.173] [INFO] default - Opened remote.co jobs page
+[2025-08-05T15:50:06.549] [INFO] default - Going to next page: 1
+[2025-08-05T15:50:10.015] [INFO] default - Going to next page: 2
+[2025-08-05T15:50:13.798] [INFO] default - Going to next page: 3
+[2025-08-05T15:50:17.767] [INFO] default - Going to next page: 4
+[2025-08-05T15:50:21.693] [INFO] default - Going to next page: 5
+[2025-08-05T15:50:25.279] [INFO] default - Going to next page: 6
+[2025-08-05T15:50:28.878] [INFO] default - Going to next page: 7
+[2025-08-05T15:50:32.615] [INFO] default - Going to next page: 8
+[2025-08-05T15:50:36.076] [INFO] default - Going to next page: 9
+[2025-08-05T15:50:39.719] [INFO] default - Going to next page: 10
+[2025-08-05T15:50:42.178] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.216] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.251] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.279] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.304] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.336] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.369] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.398] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.417] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:50:42.433] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:51:35.265] [INFO] default - Crons are registered
+[2025-08-05T15:51:35.313] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:51:35.315] [INFO] default - Application start on Port 9090
+[2025-08-05T15:53:10.694] [INFO] default - Crons are registered
+[2025-08-05T15:53:10.783] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T15:53:10.786] [INFO] default - Application start on Port 9090
+[2025-08-05T15:54:00.032] [INFO] default -  remote.co jobs was scheduled  2025-08-05T10:24:00.031Z
+[2025-08-05T15:54:00.033] [INFO] default - Remote.co started for scrapping
+[2025-08-05T15:54:04.794] [INFO] default - Opened remote.co jobs page
+[2025-08-05T15:54:06.156] [INFO] default - Going to next page: 1
+[2025-08-05T15:54:10.011] [INFO] default - Going to next page: 2
+[2025-08-05T15:54:13.439] [INFO] default - Going to next page: 3
+[2025-08-05T15:54:17.364] [INFO] default - Going to next page: 4
+[2025-08-05T15:54:21.148] [INFO] default - Going to next page: 5
+[2025-08-05T15:54:24.857] [INFO] default - Going to next page: 6
+[2025-08-05T15:54:28.405] [INFO] default - Going to next page: 7
+[2025-08-05T15:54:32.111] [INFO] default - Going to next page: 8
+[2025-08-05T15:54:35.961] [INFO] default - Going to next page: 9
+[2025-08-05T15:54:39.448] [INFO] default - Going to next page: 10
+[2025-08-05T15:54:41.885] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:41.932] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:41.971] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.000] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.026] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.054] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.071] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.088] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.103] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.118] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:54:42.118] [INFO] default - Jobs are inserted Successfully
+[2025-08-05T15:56:00.031] [INFO] default -  remote.co jobs was scheduled  2025-08-05T10:26:00.031Z
+[2025-08-05T15:56:00.032] [INFO] default - Remote.co started for scrapping
+[2025-08-05T15:56:04.985] [INFO] default - Opened remote.co jobs page
+[2025-08-05T15:56:06.649] [INFO] default - Going to next page: 1
+[2025-08-05T15:56:10.134] [INFO] default - Going to next page: 2
+[2025-08-05T15:56:13.670] [INFO] default - Going to next page: 3
+[2025-08-05T15:56:17.481] [INFO] default - Going to next page: 4
+[2025-08-05T15:56:21.378] [INFO] default - Going to next page: 5
+[2025-08-05T15:56:24.897] [INFO] default - Going to next page: 6
+[2025-08-05T15:56:28.566] [INFO] default - Going to next page: 7
+[2025-08-05T15:56:32.320] [INFO] default - Going to next page: 8
+[2025-08-05T15:56:36.062] [INFO] default - Going to next page: 9
+[2025-08-05T15:56:39.823] [INFO] default - Going to next page: 10
+[2025-08-05T15:56:42.330] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.352] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.373] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.394] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.418] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.435] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.453] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.469] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.487] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.507] [INFO] default - Inserted 50 jobs
+[2025-08-05T15:56:42.507] [INFO] default - Jobs are inserted Successfully
+[2025-08-05T16:12:49.281] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:12:49.283] [INFO] default - Application start on Port 9090
+[2025-08-05T16:13:01.366] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:13:01.368] [INFO] default - Application start on Port 9090
+[2025-08-05T16:13:29.377] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:13:29.379] [INFO] default - Application start on Port 9090
+[2025-08-05T16:13:38.954] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:13:38.956] [INFO] default - Application start on Port 9090
+[2025-08-05T16:13:59.460] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:13:59 GMT+0530 (India Standard Time)
+[2025-08-05T16:14:21.270] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:14:21.272] [INFO] default - Application start on Port 9090
+[2025-08-05T16:14:33.515] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:14:33 GMT+0530 (India Standard Time)
+[2025-08-05T16:14:44.701] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:14:44.703] [INFO] default - Application start on Port 9090
+[2025-08-05T16:14:50.273] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:14:50.274] [INFO] default - Application start on Port 9090
+[2025-08-05T16:15:05.821] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:15:05.823] [INFO] default - Application start on Port 9090
+[2025-08-05T16:15:07.303] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:15:07 GMT+0530 (India Standard Time)
+[2025-08-05T16:15:17.304] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:15:17.306] [INFO] default - Application start on Port 9090
+[2025-08-05T16:15:25.593] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:15:25 GMT+0530 (India Standard Time)
+[2025-08-05T16:17:04.414] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:17:04.416] [INFO] default - Application start on Port 9090
+[2025-08-05T16:17:26.815] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:17:26.818] [INFO] default - Application start on Port 9090
+[2025-08-05T16:17:37.848] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:17:37.850] [INFO] default - Application start on Port 9090
+[2025-08-05T16:17:51.524] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:17:51.526] [INFO] default - Application start on Port 9090
+[2025-08-05T16:17:56.706] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:17:56 GMT+0530 (India Standard Time)
+[2025-08-05T16:18:29.287] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:18:29 GMT+0530 (India Standard Time)
+[2025-08-05T16:18:41.463] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:18:41 GMT+0530 (India Standard Time)
+[2025-08-05T16:19:02.421] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:19:02 GMT+0530 (India Standard Time)
+[2025-08-05T16:19:28.017] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:19:28 GMT+0530 (India Standard Time)
+[2025-08-05T16:19:29.738] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:19:29 GMT+0530 (India Standard Time)
+[2025-08-05T16:19:49.958] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:19:49 GMT+0530 (India Standard Time)
+[2025-08-05T16:20:24.573] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:20:24.576] [INFO] default - Application start on Port 9090
+[2025-08-05T16:20:28.319] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:20:28 GMT+0530 (India Standard Time)
+[2025-08-05T16:20:35.238] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:20:35 GMT+0530 (India Standard Time)
+[2025-08-05T16:20:56.892] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:20:56 GMT+0530 (India Standard Time)
+[2025-08-05T16:21:10.824] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:21:10 GMT+0530 (India Standard Time)
+[2025-08-05T16:21:52.315] [INFO] default - GET localhost /api/v1/jobs/get-jobs Tue Aug 05 2025 16:21:52 GMT+0530 (India Standard Time)
+[2025-08-05T16:49:20.115] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:49:20.118] [INFO] default - Application start on Port 9090
+[2025-08-05T16:50:25.626] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:50:25.629] [INFO] default - Application start on Port 9090
+[2025-08-05T16:50:36.392] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:50:36.395] [INFO] default - Application start on Port 9090
+[2025-08-05T16:50:47.561] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:50:47.564] [INFO] default - Application start on Port 9090
+[2025-08-05T16:50:55.683] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:50:55.687] [INFO] default - Application start on Port 9090
+[2025-08-05T16:51:00.074] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:51:00.078] [INFO] default - Application start on Port 9090
+[2025-08-05T16:51:13.860] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:51:13.863] [INFO] default - Application start on Port 9090
+[2025-08-05T16:51:24.167] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:51:24.169] [INFO] default - Application start on Port 9090
+[2025-08-05T16:51:36.942] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:51:36.946] [INFO] default - Application start on Port 9090
+[2025-08-05T16:51:43.959] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:51:43.962] [INFO] default - Application start on Port 9090
+[2025-08-05T16:51:53.340] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:51:53.344] [INFO] default - Application start on Port 9090
+[2025-08-05T16:52:00.862] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:52:00.865] [INFO] default - Application start on Port 9090
+[2025-08-05T16:52:09.787] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:52:09.792] [INFO] default - Application start on Port 9090
+[2025-08-05T16:52:18.473] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:52:18.476] [INFO] default - Application start on Port 9090
+[2025-08-05T16:52:24.985] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:52:24.991] [INFO] default - Application start on Port 9090
+[2025-08-05T16:52:36.610] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:52:36.614] [INFO] default - Application start on Port 9090
+[2025-08-05T16:52:47.066] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:52:47.069] [INFO] default - Application start on Port 9090
+[2025-08-05T16:52:58.431] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:52:58.436] [INFO] default - Application start on Port 9090
+[2025-08-05T16:53:08.870] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:53:08.873] [INFO] default - Application start on Port 9090
+[2025-08-05T16:53:14.430] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:53:14.433] [INFO] default - Application start on Port 9090
+[2025-08-05T16:53:23.079] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:53:23.082] [INFO] default - Application start on Port 9090
+[2025-08-05T16:53:33.712] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:53:33.715] [INFO] default - Application start on Port 9090
+[2025-08-05T16:53:39.165] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:53:39.167] [INFO] default - Application start on Port 9090
+[2025-08-05T16:54:04.198] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:54:04.202] [INFO] default - Application start on Port 9090
+[2025-08-05T16:54:08.731] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:54:08.734] [INFO] default - Application start on Port 9090
+[2025-08-05T16:54:22.351] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:54:22.353] [INFO] default - Application start on Port 9090
+[2025-08-05T16:54:29.819] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:54:29.824] [INFO] default - Application start on Port 9090
+[2025-08-05T16:54:41.144] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:54:41.147] [INFO] default - Application start on Port 9090
+[2025-08-05T16:55:15.945] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:55:15.948] [INFO] default - Application start on Port 9090
+[2025-08-05T16:55:30.762] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:55:30.765] [INFO] default - Application start on Port 9090
+[2025-08-05T16:55:42.122] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:55:42.126] [INFO] default - Application start on Port 9090
+[2025-08-05T16:55:54.955] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:55:54.958] [INFO] default - Application start on Port 9090
+[2025-08-05T16:56:05.829] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:56:05.836] [INFO] default - Application start on Port 9090
+[2025-08-05T16:56:47.941] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:56:47.944] [INFO] default - Application start on Port 9090
+[2025-08-05T16:56:57.202] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:56:57.205] [INFO] default - Application start on Port 9090
+[2025-08-05T16:57:16.913] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:57:16.916] [INFO] default - Application start on Port 9090
+[2025-08-05T16:57:25.531] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:57:25.533] [INFO] default - Application start on Port 9090
+[2025-08-05T16:57:35.856] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:57:35.859] [INFO] default - Application start on Port 9090
+[2025-08-05T16:57:42.747] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:57:42.751] [INFO] default - Application start on Port 9090
+[2025-08-05T16:57:53.776] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:57:53.780] [INFO] default - Application start on Port 9090
+[2025-08-05T16:58:13.518] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:58:13.522] [INFO] default - Application start on Port 9090
+[2025-08-05T16:58:28.888] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:58:28.891] [INFO] default - Application start on Port 9090
+[2025-08-05T16:58:41.717] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:58:41.721] [INFO] default - Application start on Port 9090
+[2025-08-05T16:59:37.050] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:59:37.054] [INFO] default - Application start on Port 9090
+[2025-08-05T16:59:50.219] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:59:50.222] [INFO] default - Application start on Port 9090
+[2025-08-05T16:59:55.189] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T16:59:55.194] [INFO] default - Application start on Port 9090
+[2025-08-05T17:00:02.369] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:00:02.373] [INFO] default - Application start on Port 9090
+[2025-08-05T17:00:17.484] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:00:17.487] [INFO] default - Application start on Port 9090
+[2025-08-05T17:00:24.532] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:00:24.535] [INFO] default - Application start on Port 9090
+[2025-08-05T17:00:33.419] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:00:33.422] [INFO] default - Application start on Port 9090
+[2025-08-05T17:00:39.934] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:00:39.937] [INFO] default - Application start on Port 9090
+[2025-08-05T17:00:53.319] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:00:53.325] [INFO] default - Application start on Port 9090
+[2025-08-05T17:01:05.146] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:01:05.150] [INFO] default - Application start on Port 9090
+[2025-08-05T17:01:17.350] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:01:17.353] [INFO] default - Application start on Port 9090
+[2025-08-05T17:01:34.457] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:01:34.460] [INFO] default - Application start on Port 9090
+[2025-08-05T17:01:50.558] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:01:50.562] [INFO] default - Application start on Port 9090
+[2025-08-05T17:01:55.746] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:01:55.749] [INFO] default - Application start on Port 9090
+[2025-08-05T17:02:10.760] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:02:10.765] [INFO] default - Application start on Port 9090
+[2025-08-05T17:02:17.283] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:02:17.285] [INFO] default - Application start on Port 9090
+[2025-08-05T17:02:25.557] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:02:25.562] [INFO] default - Application start on Port 9090
+[2025-08-05T17:02:30.906] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:02:30.910] [INFO] default - Application start on Port 9090
+[2025-08-05T17:08:12.693] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:08:12.696] [INFO] default - Application start on Port 9090
+[2025-08-05T17:08:46.685] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 17:08:46 GMT+0530 (India Standard Time)
+[2025-08-05T17:08:46.687] [INFO] default - job:scrapper-remote-co is push to queue :: queue_scrapping 
+[2025-08-05T17:12:03.884] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:12:03.888] [INFO] default - Application start on Port 9090
+[2025-08-05T17:12:08.503] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:12:08.505] [INFO] default - Application start on Port 9090
+[2025-08-05T17:12:44.498] [INFO] default - Scrapping worker start they job 1
+[2025-08-05T17:12:44.500] [INFO] default - Remote.co started for scrapping
+[2025-08-05T17:12:44.650] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:12:44.653] [INFO] default - Application start on Port 9090
+[2025-08-05T17:12:49.578] [INFO] default - Opened remote.co jobs page
+[2025-08-05T17:12:51.514] [INFO] default - Going to next page: 1
+[2025-08-05T17:12:55.512] [INFO] default - Going to next page: 2
+[2025-08-05T17:12:59.499] [INFO] default - Going to next page: 3
+[2025-08-05T17:13:03.354] [INFO] default - Going to next page: 4
+[2025-08-05T17:13:07.107] [INFO] default - Going to next page: 5
+[2025-08-05T17:13:11.115] [INFO] default - Going to next page: 6
+[2025-08-05T17:13:15.023] [INFO] default - Going to next page: 7
+[2025-08-05T17:13:19.426] [INFO] default - Going to next page: 8
+[2025-08-05T17:13:23.239] [INFO] default - Going to next page: 9
+[2025-08-05T17:13:27.309] [INFO] default - Going to next page: 10
+[2025-08-05T17:13:30.355] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.401] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.443] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.495] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.522] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.547] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.564] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.582] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.600] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:13:30.626] [INFO] default - Inserted 50 jobs
+[2025-08-05T17:30:06.761] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:30:06.764] [INFO] default - Application start on Port 9090
+[2025-08-05T17:30:21.408] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 17:30:21 GMT+0530 (India Standard Time)
+[2025-08-05T17:30:21.409] [INFO] default - job:scrapper-remote-co is push to queue :: queue_scrapping 
+[2025-08-05T17:33:07.591] [INFO] default - Scrapping worker start they job 2
+[2025-08-05T17:33:07.592] [INFO] default - Remote.co started for scrapping
+[2025-08-05T17:33:07.741] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:33:07.744] [INFO] default - Application start on Port 9090
+[2025-08-05T17:33:13.951] [INFO] default - Opened remote.co jobs page
+[2025-08-05T17:33:15.116] [WARN] default - Error from extract TargetCloseError: Protocol error (Runtime.callFunctionOn): Target closed
+    at CallbackRegistry.clear (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/common/CallbackRegistry.ts:101:30)
+    at CdpCDPSession.onClosed (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:162:21)
+    at Connection.onMessage (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/Connection.ts:184:17)
+    at WebSocket.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/node/NodeWebSocketTransport.ts:46:24)
+    at callListener (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/ws/lib/event-target.js:290:14)
+    at WebSocket.onMessage (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/ws/lib/event-target.js:209:9)
+    at WebSocket.emit (node:events:507:28)
+    at WebSocket.emit (node:domain:489:12)
+    at Receiver.receiverOnMessage (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/ws/lib/websocket.js:1220:20)
+    at Receiver.emit (node:events:507:28) {
+  cause: ProtocolError
+      at Callback.<instance_members_initializer> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/common/CallbackRegistry.ts:127:12)
+      at new Callback (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/common/CallbackRegistry.ts:132:3)
+      at CallbackRegistry.create (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/common/CallbackRegistry.ts:30:22)
+      at Connection._rawSend (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/Connection.ts:136:22)
+      at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:103:29)
+      at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+      at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:75:16)
+      at ExecutionContext.#evaluate (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/ExecutionContext.ts:420:44)
+      at ExecutionContext.evaluate (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/ExecutionContext.ts:291:32)
+      at IsolatedWorld.evaluate (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:196:26)
+}
+[2025-08-05T17:33:15.133] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.141] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.144] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.146] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.148] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.149] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.151] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.153] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.155] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.156] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.158] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.160] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.161] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.163] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.164] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.165] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.167] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.168] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.170] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.171] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.173] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.174] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.175] [WARN] default - Error from extract TargetCloseError: Protocol error (DOM.describeNode): Session closed. Most likely the page has been closed.
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/CdpSession.ts:98:9)
+    at next (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:34:41)
+    at CdpCDPSession.send (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-extra-plugin-stealth/evasions/sourceurl/index.js:67:18)
+    at IsolatedWorld.adoptHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:224:40)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/ElementHandle.ts:145:10)
+    at CdpElementHandle.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at extractJobFromCard (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:11:37)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:63:29)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+[2025-08-05T17:33:15.215] [ERROR] default - Scraping error: Error: Execution context was destroyed
+    at IsolatedWorld.#waitForExecutionContext (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:140:19)
+    at IsolatedWorld.evaluateHandle (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/IsolatedWorld.ts:173:52)
+    at CdpFrame.#document (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/Frame.ts:412:42)
+    at CdpFrame.$ (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/Frame.ts:563:42)
+    at CdpFrame.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/util/decorators.ts:63:21)
+    at CdpPage.$ (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/api/Page.ts:1156:35)
+    at scrappeRecentJobs (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/scrapper/remote.co.scrapper.ts:74:37)
+    at async scrappeRemoteCo (/home/f22labs/Documents/work/onboard-task/scrappy/src/scrappe/index.ts:28:18)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:18:20)
+    at async /home/f22labs/Documents/work/onboard-task/scrappy/node_modules/bullmq/src/classes/worker.ts:878:26
+[2025-08-05T17:33:15.284] [INFO] default - Inserted 26 jobs
+[2025-08-05T17:33:23.897] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 17:33:23 GMT+0530 (India Standard Time)
+[2025-08-05T17:33:23.898] [INFO] default - job:scrapper-remote-co is push to queue :: queue_scrapping 
+[2025-08-05T17:33:23.905] [INFO] default - Scrapping worker start they job 3
+[2025-08-05T17:33:23.905] [INFO] default - Remote.co started for scrapping
+[2025-08-05T17:33:27.862] [INFO] default - Opened remote.co jobs page
+[2025-08-05T17:33:29.539] [INFO] default - Going to next page: 1
+[2025-08-05T17:33:37.579] [INFO] default - Going to next page: 2
+[2025-08-05T17:34:11.628] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:34:11.632] [INFO] default - Application start on Port 9090
+[2025-08-05T17:34:22.837] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T17:34:22.841] [INFO] default - Application start on Port 9090
+[2025-08-05T17:34:52.758] [INFO] default - Scrapping worker start they job 3
+[2025-08-05T17:34:52.759] [INFO] default - Remote.co started for scrapping
+[2025-08-05T17:34:57.074] [ERROR] default - Scraping error: Error: Navigating frame was detached
+    at LifecycleWatcher.#onFrameDetached (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/LifecycleWatcher.ts:188:9)
+    at /home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/lib/cjs/third_party/mitt/mitt.js:62:7
+    at Array.map (<anonymous>)
+    at Object.emit (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/lib/cjs/third_party/mitt/mitt.js:61:20)
+    at CdpFrame.emit (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/common/EventEmitter.ts:135:19)
+    at FrameManager.#removeFramesRecursively (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/FrameManager.ts:575:11)
+    at FrameManager.#onClientDisconnect (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/puppeteer-core/src/cdp/FrameManager.ts:130:36)
+[2025-08-05T17:34:57.290] [WARN] default - No jobs
+[2025-08-05T18:04:19.220] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:04:19.224] [INFO] default - Application start on Port 9090
+[2025-08-05T18:04:24.084] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 18:04:24 GMT+0530 (India Standard Time)
+[2025-08-05T18:04:24.107] [INFO] default - job:scrapper-remote-co is push to queue :: queue_scrapping 
+[2025-08-05T18:04:24.117] [INFO] default - Scrapping worker start they job 4
+[2025-08-05T18:04:24.127] [INFO] default - Remote.co started for scrapping
+[2025-08-05T18:04:27.316] [INFO] default - Opened remote.co jobs page
+[2025-08-05T18:04:27.471] [WARN] default - No jobs
+[2025-08-05T18:04:34.037] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:04:34 GMT+0530 (India Standard Time)
+[2025-08-05T18:04:45.444] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:04:45 GMT+0530 (India Standard Time)
+[2025-08-05T18:05:39.201] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:05:39.204] [INFO] default - Application start on Port 9090
+[2025-08-05T18:05:46.944] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:05:46.948] [INFO] default - Application start on Port 9090
+[2025-08-05T18:05:59.870] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:05:59.872] [INFO] default - Application start on Port 9090
+[2025-08-05T18:06:04.216] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:04 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:25.325] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:06:25.328] [INFO] default - Application start on Port 9090
+[2025-08-05T18:06:42.136] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:06:42.139] [INFO] default - Application start on Port 9090
+[2025-08-05T18:06:45.296] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:45 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:45.297] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:06:56.923] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:56 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:56.924] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:06:57.821] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:57 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:57.821] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:06:58.611] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:58 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:58.612] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:06:59.491] [INFO] default - GET localhost /api/v1/events/check-event/61afd267-df28-4306-aa92-ceadff6bcb20 Tue Aug 05 2025 18:06:59 GMT+0530 (India Standard Time)
+[2025-08-05T18:06:59.491] [INFO] default - Check event status handler  61afd267-df28-4306-aa92-ceadff6bcb20
+[2025-08-05T18:07:40.910] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:07:40.913] [INFO] default - Application start on Port 9090
+[2025-08-05T18:07:53.078] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Tue Aug 05 2025 18:07:53 GMT+0530 (India Standard Time)
+[2025-08-05T18:07:53.119] [INFO] default - job:scrapper-remote-co is push to queue :: queue_scrapping 
+[2025-08-05T18:07:53.131] [INFO] default - Scrapping worker start they job 5
+[2025-08-05T18:07:53.147] [INFO] default - Remote.co started for scrapping
+[2025-08-05T18:07:57.862] [INFO] default - Opened remote.co jobs page
+[2025-08-05T18:07:58.002] [WARN] default - No jobs
+[2025-08-05T18:08:04.733] [INFO] default - GET localhost /api/v1/events/check-event/b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2 Tue Aug 05 2025 18:08:04 GMT+0530 (India Standard Time)
+[2025-08-05T18:08:04.734] [INFO] default - Check event status handler  b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2
+[2025-08-05T18:08:05.926] [INFO] default - GET localhost /api/v1/events/check-event/b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2 Tue Aug 05 2025 18:08:05 GMT+0530 (India Standard Time)
+[2025-08-05T18:08:05.926] [INFO] default - Check event status handler  b0b91189-bc4c-4c96-aa4c-c726f3d9f6e2
+[2025-08-05T18:36:43.681] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T18:36:43.683] [INFO] default - Application start on Port 9090
+[2025-08-05T22:41:45.508] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:41:45.510] [INFO] default - Application start on Port 9090
+[2025-08-05T22:57:59.496] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:57:59.498] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:10.249] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:10.251] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:24.822] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:24.825] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:30.298] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:30.301] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:36.666] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:36.669] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:44.091] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:44.093] [INFO] default - Application start on Port 9090
+[2025-08-05T22:58:47.911] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:58:47.913] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:11.491] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:11.493] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:34.666] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:34.668] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:39.665] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:39.667] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:50.555] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:50.557] [INFO] default - Application start on Port 9090
+[2025-08-05T22:59:55.953] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T22:59:55.956] [INFO] default - Application start on Port 9090
+[2025-08-05T23:00:17.510] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:00:17.512] [INFO] default - Application start on Port 9090
+[2025-08-05T23:00:28.115] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:00:28.118] [INFO] default - Application start on Port 9090
+[2025-08-05T23:01:06.907] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:01:06.910] [INFO] default - Application start on Port 9090
+[2025-08-05T23:01:25.523] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:01:25.525] [INFO] default - Application start on Port 9090
+[2025-08-05T23:02:08.152] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:02:08.154] [INFO] default - Application start on Port 9090
+[2025-08-05T23:02:25.126] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:02:25.129] [INFO] default - Application start on Port 9090
+[2025-08-05T23:03:06.620] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:03:06.623] [INFO] default - Application start on Port 9090
+[2025-08-05T23:06:19.779] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:06:19.782] [INFO] default - Application start on Port 9090
+[2025-08-05T23:06:40.079] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:06:40.082] [INFO] default - Application start on Port 9090
+[2025-08-05T23:06:45.802] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:06:45.805] [INFO] default - Application start on Port 9090
+[2025-08-05T23:06:56.549] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:06:56.551] [INFO] default - Application start on Port 9090
+[2025-08-05T23:07:04.247] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:07:04.249] [INFO] default - Application start on Port 9090
+[2025-08-05T23:12:29.249] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:12:29.251] [INFO] default - Application start on Port 9090
+[2025-08-05T23:12:49.695] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:12:49.697] [INFO] default - Application start on Port 9090
+[2025-08-05T23:12:57.718] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:12:57.720] [INFO] default - Application start on Port 9090
+[2025-08-05T23:37:44.022] [INFO] default - Sequelize with Postgres Connected
+[2025-08-05T23:37:44.025] [INFO] default - Application start on Port 9090
+[2025-08-06T00:29:44.087] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:44 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:44.153] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:44 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:47.070] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:47 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:47.081] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:47 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:58.071] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:58 GMT+0530 (India Standard Time)
+[2025-08-06T00:29:58.108] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:29:58 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:05.178] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:05 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:05.189] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:05 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:08.169] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:08 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:08.178] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:08 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:10.168] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:10 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:10.177] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:10 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:12.167] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:12 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:12.176] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:12 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:18.070] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:18 GMT+0530 (India Standard Time)
+[2025-08-06T00:30:18.078] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:30:18 GMT+0530 (India Standard Time)
+[2025-08-06T00:38:02.119] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:38:02 GMT+0530 (India Standard Time)
+[2025-08-06T00:38:02.150] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:38:02 GMT+0530 (India Standard Time)
+[2025-08-06T00:38:52.628] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T00:38:52.633] [INFO] default - Application start on Port 9090
+[2025-08-06T00:39:07.077] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T00:39:07.082] [INFO] default - Application start on Port 9090
+[2025-08-06T00:39:12.400] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:39:12 GMT+0530 (India Standard Time)
+[2025-08-06T00:39:12.401] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:39:12.441] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:39:12 GMT+0530 (India Standard Time)
+[2025-08-06T00:39:12.442] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:39:42.972] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T00:39:42.978] [INFO] default - Application start on Port 9090
+[2025-08-06T00:39:46.873] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:39:46 GMT+0530 (India Standard Time)
+[2025-08-06T00:39:46.876] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:40:38.149] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:40:38 GMT+0530 (India Standard Time)
+[2025-08-06T00:40:38.151] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:42:18.482] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T00:42:18.484] [INFO] default - Application start on Port 9090
+[2025-08-06T00:42:18.907] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:42:18 GMT+0530 (India Standard Time)
+[2025-08-06T00:42:18.908] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:42:18.931] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:42:18 GMT+0530 (India Standard Time)
+[2025-08-06T00:42:18.932] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:42:19.010] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:42:19 GMT+0530 (India Standard Time)
+[2025-08-06T00:42:19.011] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:43:48.516] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:43:48 GMT+0530 (India Standard Time)
+[2025-08-06T00:43:48.516] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:43:48.532] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:43:48 GMT+0530 (India Standard Time)
+[2025-08-06T00:43:48.533] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:43:48.574] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:43:48 GMT+0530 (India Standard Time)
+[2025-08-06T00:43:48.575] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:49:55.081] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:49:55 GMT+0530 (India Standard Time)
+[2025-08-06T00:49:55.082] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:49:55.102] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:49:55 GMT+0530 (India Standard Time)
+[2025-08-06T00:49:55.103] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:49:55.129] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:49:55 GMT+0530 (India Standard Time)
+[2025-08-06T00:49:55.130] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:45.827] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:45 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:45.828] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:45.845] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:45 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:45.846] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:45.872] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:45 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:45.873] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:49.356] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:49 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:49.356] [INFO] default - Get all jobs handler invoked
+[2025-08-06T00:50:49.390] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 00:50:49 GMT+0530 (India Standard Time)
+[2025-08-06T00:50:49.391] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:19.237] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:19 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:19.238] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:19.259] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:19 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:19.259] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:19.293] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:19 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:19.294] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:29.479] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:29.480] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:29.488] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:29.489] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:15:29.526] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:15:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:15:29.526] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:26.773] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:26 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:26.773] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:26.790] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:26 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:26.791] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:33.253] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:33 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:33.254] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:33.259] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:33 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:33.259] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:24:33.282] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:24:33 GMT+0530 (India Standard Time)
+[2025-08-06T01:24:33.283] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:28:58.085] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:28:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:28:58.085] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:28:58.099] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:28:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:28:58.100] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:28:58.117] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:28:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:28:58.117] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:18.069] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:18.069] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:18.087] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:18.087] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:20.417] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:20 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:20.418] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:20.424] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:20 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:20.425] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:29:20.441] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:29:20 GMT+0530 (India Standard Time)
+[2025-08-06T01:29:20.441] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:09.893] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:09 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:09.894] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:09.929] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:09 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:09.930] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:11.890] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:11 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:11.891] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:11.908] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:11 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:11.909] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:12.665] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:12 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:12.666] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:12.682] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:12 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:12.683] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:14.367] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:14 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:14.368] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:14.387] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:14 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:14.388] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:15.880] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:15.881] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:15.900] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:15.900] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:17.696] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:17 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:17.697] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:17.713] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:17 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:17.714] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:18.512] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:18.513] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:18.530] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:18.531] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:32.166] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:32 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:32.167] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:32.181] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:32 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:32.182] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:32:32.213] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:32:32 GMT+0530 (India Standard Time)
+[2025-08-06T01:32:32.214] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:34:41.902] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:34:41 GMT+0530 (India Standard Time)
+[2025-08-06T01:34:41.903] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:34:42.743] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:34:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:34:42.745] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:39.160] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:39 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:39.160] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:39.174] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:39 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:39.174] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:41.363] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:41 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:41.364] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:43.514] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:43 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:43.515] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:45.414] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:45 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:45.415] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:46.236] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:46 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:46.237] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:35:46.682] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:35:46 GMT+0530 (India Standard Time)
+[2025-08-06T01:35:46.683] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:39:13.071] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:39:13 GMT+0530 (India Standard Time)
+[2025-08-06T01:39:13.071] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:39:13.086] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:39:13 GMT+0530 (India Standard Time)
+[2025-08-06T01:39:13.087] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:39:25.075] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:39:25 GMT+0530 (India Standard Time)
+[2025-08-06T01:39:25.076] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:40:41.079] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:40:41 GMT+0530 (India Standard Time)
+[2025-08-06T01:40:41.079] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:35.648] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:35.649] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:48.958] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:48 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:48.958] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:49.424] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:49 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:49.425] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:55.908] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:55 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:55.908] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:43:58.292] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:43:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:43:58.294] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:44:04.642] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:44:04 GMT+0530 (India Standard Time)
+[2025-08-06T01:44:04.644] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:44:16.005] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:44:16 GMT+0530 (India Standard Time)
+[2025-08-06T01:44:16.006] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:44:24.273] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:44:24 GMT+0530 (India Standard Time)
+[2025-08-06T01:44:24.274] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:44:29.869] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:44:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:44:29.870] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:28.787] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:28 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:28.787] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:29.184] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:29.186] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:29.311] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:29 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:29.312] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:30.631] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:30 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:30.633] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:30.795] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:30 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:30.796] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:52:31.053] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:52:31 GMT+0530 (India Standard Time)
+[2025-08-06T01:52:31.055] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:53:04.176] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:53:04 GMT+0530 (India Standard Time)
+[2025-08-06T01:53:04.178] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:35.034] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:35.035] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:35.340] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:35.341] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:35.509] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:35.509] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:35.679] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:35 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:35.681] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:37.579] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:37 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:37.581] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:37.862] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:37 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:37.864] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:38.177] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:38 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:38.177] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:55:42.473] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:55:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:55:42.474] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:15.073] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:15.074] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:15.447] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:15.448] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:15.670] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:15 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:15.671] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:17.013] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:17 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:17.014] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:17.280] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:17 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:17.281] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:18.080] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:18 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:18.080] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:42.355] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:42.355] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:42.527] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:42.527] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:42.758] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:42 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:42.759] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:43.410] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:43 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:43.411] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:43.660] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:43 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:43.660] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:52.483] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:52 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:52.485] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:52.618] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:52 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:52.619] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:52.747] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:52 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:52.748] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:52.861] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:52 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:52.861] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:53.023] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:53 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:53.024] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:53.154] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:53 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:53.154] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:53.504] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:53 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:53.506] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.005] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.007] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.034] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.035] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.064] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.065] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.096] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.096] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.126] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.127] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:54.157] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:54 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:54.157] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:56.933] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:56 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:56.934] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.088] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.089] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.205] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.207] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.340] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.342] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.461] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.463] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:57.789] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:57 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:57.791] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:58.290] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:58.291] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:58.320] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:58.320] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:58.350] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:58.350] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:56:58.380] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 01:56:58 GMT+0530 (India Standard Time)
+[2025-08-06T01:56:58.381] [INFO] default - Get all jobs handler invoked
+[2025-08-06T01:58:39.552] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T01:58:39.553] [INFO] default - Application start on Port 9090
+[2025-08-06T01:59:11.326] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T01:59:11.328] [INFO] default - Application start on Port 9090
+[2025-08-06T01:59:19.028] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T01:59:19.030] [INFO] default - Application start on Port 9090
+[2025-08-06T01:59:32.368] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T01:59:32.370] [INFO] default - Application start on Port 9090
+[2025-08-06T01:59:36.896] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T01:59:36.898] [INFO] default - Application start on Port 9090
+[2025-08-06T01:59:42.063] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T01:59:42.065] [INFO] default - Application start on Port 9090
+[2025-08-06T01:59:54.437] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T01:59:54.439] [INFO] default - Application start on Port 9090
+[2025-08-06T01:59:57.523] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T01:59:57.525] [INFO] default - Application start on Port 9090
+[2025-08-06T02:00:11.009] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:00:11.011] [INFO] default - Application start on Port 9090
+[2025-08-06T02:00:16.551] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:00:16.554] [INFO] default - Application start on Port 9090
+[2025-08-06T02:00:24.876] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:00:24.878] [INFO] default - Application start on Port 9090
+[2025-08-06T02:01:06.575] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:01:06.577] [INFO] default - Application start on Port 9090
+[2025-08-06T02:01:10.109] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:01:10.112] [INFO] default - Application start on Port 9090
+[2025-08-06T02:01:14.126] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:01:14.129] [INFO] default - Application start on Port 9090
+[2025-08-06T02:01:25.115] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:01:25.117] [INFO] default - Application start on Port 9090
+[2025-08-06T02:01:33.401] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:01:33.403] [INFO] default - Application start on Port 9090
+[2025-08-06T02:01:37.122] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:01:37.125] [INFO] default - Application start on Port 9090
+[2025-08-06T02:01:44.677] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:01:44.679] [INFO] default - Application start on Port 9090
+[2025-08-06T02:01:56.767] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:01:56.769] [INFO] default - Application start on Port 9090
+[2025-08-06T02:02:20.281] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:02:20.284] [INFO] default - Application start on Port 9090
+[2025-08-06T02:02:36.776] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:02:36.779] [INFO] default - Application start on Port 9090
+[2025-08-06T02:02:40.231] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:02:40.233] [INFO] default - Application start on Port 9090
+[2025-08-06T02:03:36.202] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:03:36.204] [INFO] default - Application start on Port 9090
+[2025-08-06T02:03:44.575] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:03:44.577] [INFO] default - Application start on Port 9090
+[2025-08-06T02:03:52.954] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:03:52.956] [INFO] default - Application start on Port 9090
+[2025-08-06T02:04:09.303] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:04:09.305] [INFO] default - Application start on Port 9090
+[2025-08-06T02:05:10.546] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:05:10 GMT+0530 (India Standard Time)
+[2025-08-06T02:05:10.547] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:05:10.574] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:05:10 GMT+0530 (India Standard Time)
+[2025-08-06T02:05:10.575] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:05:50.042] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:05:50 GMT+0530 (India Standard Time)
+[2025-08-06T02:05:50.043] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:05:50.058] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:05:50 GMT+0530 (India Standard Time)
+[2025-08-06T02:05:50.059] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:05:51.389] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:05:51 GMT+0530 (India Standard Time)
+[2025-08-06T02:05:51.390] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:05:51.396] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:05:51 GMT+0530 (India Standard Time)
+[2025-08-06T02:05:51.396] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:05:58.733] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:05:58 GMT+0530 (India Standard Time)
+[2025-08-06T02:05:58.733] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:05:58.739] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:05:58 GMT+0530 (India Standard Time)
+[2025-08-06T02:05:58.739] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:01.208] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:01 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:01.208] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:01.214] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:01 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:01.214] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:04.400] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:04 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:04.401] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:04.410] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:04 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:04.411] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:09.268] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:09 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:09.269] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:09.277] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:09 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:09.277] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:10.412] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:10 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:10.413] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:10.417] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:10 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:10.418] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:12.196] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:12 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:12.196] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:12.201] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:12 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:12.202] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:16.681] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:16 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:16.681] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:16.687] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:16 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:16.687] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:18.938] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:18 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:18.941] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:06:18.952] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:06:18 GMT+0530 (India Standard Time)
+[2025-08-06T02:06:18.953] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:07:44.711] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:07:44 GMT+0530 (India Standard Time)
+[2025-08-06T02:07:44.711] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:07:44.726] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:07:44 GMT+0530 (India Standard Time)
+[2025-08-06T02:07:44.726] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:08:54.429] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:08:54 GMT+0530 (India Standard Time)
+[2025-08-06T02:08:54.430] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:08:54.443] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:08:54 GMT+0530 (India Standard Time)
+[2025-08-06T02:08:54.444] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:09:02.841] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:09:02 GMT+0530 (India Standard Time)
+[2025-08-06T02:09:02.842] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:09:02.850] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:09:02 GMT+0530 (India Standard Time)
+[2025-08-06T02:09:02.851] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:11:28.764] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:11:28 GMT+0530 (India Standard Time)
+[2025-08-06T02:11:28.765] [INFO] default - Retrieving all events
+[2025-08-06T02:11:28.784] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:11:28 GMT+0530 (India Standard Time)
+[2025-08-06T02:11:28.785] [INFO] default - Retrieving all events
+[2025-08-06T02:11:38.117] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:11:38 GMT+0530 (India Standard Time)
+[2025-08-06T02:11:38.118] [INFO] default - Retrieving all events
+[2025-08-06T02:11:38.122] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:11:38 GMT+0530 (India Standard Time)
+[2025-08-06T02:11:38.123] [INFO] default - Retrieving all events
+[2025-08-06T02:13:03.489] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:13:03 GMT+0530 (India Standard Time)
+[2025-08-06T02:13:03.490] [INFO] default - Retrieving all events
+[2025-08-06T02:13:30.170] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:13:30 GMT+0530 (India Standard Time)
+[2025-08-06T02:13:30.171] [INFO] default - Retrieving all events
+[2025-08-06T02:14:10.298] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:14:10.300] [INFO] default - Application start on Port 9090
+[2025-08-06T02:14:13.669] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:14:13 GMT+0530 (India Standard Time)
+[2025-08-06T02:14:13.670] [INFO] default - Retrieving all events
+[2025-08-06T02:14:18.640] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:14:18 GMT+0530 (India Standard Time)
+[2025-08-06T02:14:18.642] [INFO] default - Retrieving all events
+[2025-08-06T02:19:28.562] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:19:28.564] [INFO] default - Application start on Port 9090
+[2025-08-06T02:19:34.923] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:19:34.925] [INFO] default - Application start on Port 9090
+[2025-08-06T02:21:07.623] [INFO] default - Sequelize with Postgres Connected
+[2025-08-06T02:21:07.624] [INFO] default - Application start on Port 9090
+[2025-08-06T02:21:29.296] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:21:29 GMT+0530 (India Standard Time)
+[2025-08-06T02:21:29.297] [INFO] default - Retrieving all events
+[2025-08-06T02:21:29.320] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:21:29 GMT+0530 (India Standard Time)
+[2025-08-06T02:21:29.321] [INFO] default - Retrieving all events
+[2025-08-06T02:21:37.269] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:21:37 GMT+0530 (India Standard Time)
+[2025-08-06T02:21:37.269] [INFO] default - Retrieving all events
+[2025-08-06T02:21:37.274] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:21:37 GMT+0530 (India Standard Time)
+[2025-08-06T02:21:37.275] [INFO] default - Retrieving all events
+[2025-08-06T02:21:47.240] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:21:47 GMT+0530 (India Standard Time)
+[2025-08-06T02:21:47.241] [INFO] default - Retrieving all events
+[2025-08-06T02:21:47.245] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:21:47 GMT+0530 (India Standard Time)
+[2025-08-06T02:21:47.246] [INFO] default - Retrieving all events
+[2025-08-06T02:22:04.243] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:22:04 GMT+0530 (India Standard Time)
+[2025-08-06T02:22:04.243] [INFO] default - Retrieving all events
+[2025-08-06T02:22:04.259] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:22:04 GMT+0530 (India Standard Time)
+[2025-08-06T02:22:04.259] [INFO] default - Retrieving all events
+[2025-08-06T02:22:10.231] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:22:10 GMT+0530 (India Standard Time)
+[2025-08-06T02:22:10.232] [INFO] default - Retrieving all events
+[2025-08-06T02:22:10.238] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:22:10 GMT+0530 (India Standard Time)
+[2025-08-06T02:22:10.239] [INFO] default - Retrieving all events
+[2025-08-06T02:22:12.248] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:22:12 GMT+0530 (India Standard Time)
+[2025-08-06T02:22:12.249] [INFO] default - Retrieving all events
+[2025-08-06T02:22:12.253] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:22:12 GMT+0530 (India Standard Time)
+[2025-08-06T02:22:12.254] [INFO] default - Retrieving all events
+[2025-08-06T02:22:20.160] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:22:20 GMT+0530 (India Standard Time)
+[2025-08-06T02:22:20.160] [INFO] default - Retrieving all events
+[2025-08-06T02:22:20.164] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:22:20 GMT+0530 (India Standard Time)
+[2025-08-06T02:22:20.165] [INFO] default - Retrieving all events
+[2025-08-06T02:23:43.071] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:23:43 GMT+0530 (India Standard Time)
+[2025-08-06T02:23:43.072] [INFO] default - Retrieving all events
+[2025-08-06T02:26:37.432] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:26:37 GMT+0530 (India Standard Time)
+[2025-08-06T02:26:37.433] [INFO] default - Retrieving all events
+[2025-08-06T02:26:37.447] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:26:37 GMT+0530 (India Standard Time)
+[2025-08-06T02:26:37.448] [INFO] default - Retrieving all events
+[2025-08-06T02:26:44.993] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:26:44 GMT+0530 (India Standard Time)
+[2025-08-06T02:26:44.993] [INFO] default - Retrieving all events
+[2025-08-06T02:26:44.999] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:26:44 GMT+0530 (India Standard Time)
+[2025-08-06T02:26:44.999] [INFO] default - Retrieving all events
+[2025-08-06T02:26:55.533] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:26:55 GMT+0530 (India Standard Time)
+[2025-08-06T02:26:55.534] [INFO] default - Retrieving all events
+[2025-08-06T02:26:55.546] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:26:55 GMT+0530 (India Standard Time)
+[2025-08-06T02:26:55.546] [INFO] default - Retrieving all events
+[2025-08-06T02:27:00.625] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:27:00 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:00.625] [INFO] default - Retrieving all events
+[2025-08-06T02:27:00.629] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:27:00 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:00.630] [INFO] default - Retrieving all events
+[2025-08-06T02:27:05.297] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:27:05 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:05.298] [INFO] default - Retrieving all events
+[2025-08-06T02:27:05.302] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:27:05 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:05.303] [INFO] default - Retrieving all events
+[2025-08-06T02:27:23.496] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:27:23 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:23.497] [INFO] default - Retrieving all events
+[2025-08-06T02:27:47.342] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:27:47 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:47.343] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:27:47.356] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:27:47 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:47.356] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:27:48.222] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:27:48 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:48.223] [INFO] default - Retrieving all events
+[2025-08-06T02:27:48.231] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:27:48 GMT+0530 (India Standard Time)
+[2025-08-06T02:27:48.232] [INFO] default - Retrieving all events
+[2025-08-06T02:29:10.095] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:29:10 GMT+0530 (India Standard Time)
+[2025-08-06T02:29:10.096] [INFO] default - Retrieving all events
+[2025-08-06T02:30:00.763] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:30:00 GMT+0530 (India Standard Time)
+[2025-08-06T02:30:00.763] [INFO] default - Retrieving all events
+[2025-08-06T02:30:02.888] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:30:02 GMT+0530 (India Standard Time)
+[2025-08-06T02:30:02.888] [INFO] default - Retrieving all events
+[2025-08-06T02:30:04.319] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:30:04 GMT+0530 (India Standard Time)
+[2025-08-06T02:30:04.320] [INFO] default - Retrieving all events
+[2025-08-06T02:31:01.364] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:31:01 GMT+0530 (India Standard Time)
+[2025-08-06T02:31:01.365] [INFO] default - Retrieving all events
+[2025-08-06T02:31:01.380] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:31:01 GMT+0530 (India Standard Time)
+[2025-08-06T02:31:01.381] [INFO] default - Retrieving all events
+[2025-08-06T02:32:55.900] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:32:55 GMT+0530 (India Standard Time)
+[2025-08-06T02:32:55.902] [INFO] default - Retrieving all events
+[2025-08-06T02:32:58.000] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:32:58 GMT+0530 (India Standard Time)
+[2025-08-06T02:32:58.002] [INFO] default - Retrieving all events
+[2025-08-06T02:33:00.029] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:33:00 GMT+0530 (India Standard Time)
+[2025-08-06T02:33:00.030] [INFO] default - Retrieving all events
+[2025-08-06T02:33:02.926] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:33:02 GMT+0530 (India Standard Time)
+[2025-08-06T02:33:02.928] [INFO] default - Retrieving all events
+[2025-08-06T02:33:23.468] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:33:23 GMT+0530 (India Standard Time)
+[2025-08-06T02:33:23.468] [INFO] default - Retrieving all events
+[2025-08-06T02:34:20.721] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:34:20 GMT+0530 (India Standard Time)
+[2025-08-06T02:34:20.722] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:34:20.735] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:34:20 GMT+0530 (India Standard Time)
+[2025-08-06T02:34:20.736] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:35:21.004] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:35:21 GMT+0530 (India Standard Time)
+[2025-08-06T02:35:21.005] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:35:21.017] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:35:21 GMT+0530 (India Standard Time)
+[2025-08-06T02:35:21.018] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:36:00.458] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:36:00 GMT+0530 (India Standard Time)
+[2025-08-06T02:36:00.459] [INFO] default - Retrieving all events
+[2025-08-06T02:36:00.472] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:36:00 GMT+0530 (India Standard Time)
+[2025-08-06T02:36:00.472] [INFO] default - Retrieving all events
+[2025-08-06T02:36:03.504] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:36:03 GMT+0530 (India Standard Time)
+[2025-08-06T02:36:03.505] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:36:03.512] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:36:03 GMT+0530 (India Standard Time)
+[2025-08-06T02:36:03.512] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:36:12.967] [INFO] default - POST localhost /api/v1/jobs/start-scarppe Wed Aug 06 2025 02:36:12 GMT+0530 (India Standard Time)
+[2025-08-06T02:36:12.979] [INFO] default - job:scrapper-remote-co is push to queue :: queue_scrapping 
+[2025-08-06T02:36:12.984] [INFO] default - Scrapping worker start they job 6
+[2025-08-06T02:36:12.991] [INFO] default - Remote.co started for scrapping
+[2025-08-06T02:36:17.296] [INFO] default - Opened remote.co jobs page
+[2025-08-06T02:36:18.186] [INFO] default - Going to next page: 1
+[2025-08-06T02:36:20.309] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:36:20 GMT+0530 (India Standard Time)
+[2025-08-06T02:36:20.310] [INFO] default - Retrieving all events
+[2025-08-06T02:36:20.317] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:36:20 GMT+0530 (India Standard Time)
+[2025-08-06T02:36:20.318] [INFO] default - Retrieving all events
+[2025-08-06T02:36:22.188] [INFO] default - Going to next page: 2
+[2025-08-06T02:36:25.067] [INFO] default - Going to next page: 3
+[2025-08-06T02:36:28.057] [INFO] default - Going to next page: 4
+[2025-08-06T02:36:31.497] [INFO] default - Going to next page: 5
+[2025-08-06T02:36:34.306] [INFO] default - Going to next page: 6
+[2025-08-06T02:36:37.095] [INFO] default - Going to next page: 7
+[2025-08-06T02:36:41.111] [INFO] default - Going to next page: 8
+[2025-08-06T02:36:44.060] [INFO] default - Going to next page: 9
+[2025-08-06T02:36:48.059] [INFO] default - Going to next page: 10
+[2025-08-06T02:36:50.156] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.170] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.184] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.197] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.208] [ERROR] default - Error inserting batches :  DatabaseError [SequelizeDatabaseError]: value too long for type character varying(255)
+    at PostgresQuery.formatError (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/@sequelize/postgres/src/query.js:428:16)
+    at PostgresQuery.run (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/@sequelize/postgres/src/query.js:78:18)
+    at processTicksAndRejections (node:internal/process/task_queues:105:5)
+    at async /home/f22labs/Documents/work/onboard-task/scrappy/node_modules/@sequelize/core/src/sequelize.js:380:16
+    at async Sequelize.queryRaw (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/@sequelize/core/src/sequelize.js:358:12)
+    at async PostgresQueryInterface.bulkInsert (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/@sequelize/core/src/abstract-dialect/query-interface.js:490:21)
+    at async recursiveBulkCreate (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/@sequelize/core/src/model.js:2492:25)
+    at async Jobs.bulkCreate (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/@sequelize/core/src/model.js:2684:12)
+    at async Object.insertDataByBatches (/home/f22labs/Documents/work/onboard-task/scrappy/src/database/helpers/job.query.helper.ts:13:26)
+    at async Worker.bullmq_1.Worker.connection [as processFn] (/home/f22labs/Documents/work/onboard-task/scrappy/src/queue/worker/scrapping.worker.ts:45:7) {
+  sql: `INSERT INTO "scrapping_jobs_details" ("id","job_title","remote","job_type","location","postedAt","url","has_key","createdAt","updatedAt","salary") VALUES ('ded6c399-4be0-46ef-90dd-7aebb8532417','Account Executive New!','Hybrid Remote Work','Full-Time','Hybrid Remote in London, ENG, United Kingdom','Today','https://remote.co/job-details/account-executive-2266ac25-9ed1-414e-84c1-2238b8139dea','db1bb13714189f752afdba68fe10792f','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('66bea384-6862-4cac-97b0-0ab8280d14f1','Senior Product Manager New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/senior-product-manager-0e12fb65-5174-43aa-8988-45aa0b0616aa','08f9c69eb4c6ceb3f69a1e630ab0ae5e','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$118,100 - $173,600 Annually'),('ed361d0c-37f6-42fe-bc61-90b6e445b303','Editorial Data Analyst New!','Hybrid Remote Work','Full-Time','Hybrid Remote in New York, NY','Today','https://remote.co/job-details/editorial-data-analyst-71c0c6ef-cde5-4175-b937-ad5fab4dc461','2d2e1444a2cea3f12b0cce32baa6671e','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$55,000 - $75,000 Annually'),('577c7a08-84e7-452b-97fe-0b468d4d3b2a','Senior Site Reliability Engineer IV New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Atlanta, GA','Today','https://remote.co/job-details/senior-site-reliability-engineer-iv-f0fa7e20-b59c-4b11-80c5-89f7be42309f','4f6b9208578c64de58359828d4c53f6b','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$150,000 - $252,000 Annually'),('f31c48f4-0538-4c08-8f32-7f55e6387c12','Senior Employment Counsel New!','Hybrid Remote Work','Full-Time','Hybrid Remote in San Francisco, CA, Chicago, IL','Today','https://remote.co/job-details/senior-employment-counsel-788aa142-96cd-4ba6-a4cf-b2051b16d5d9','32c544eea858617993f4cc9829a46b6c','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$220,680 - $263,590 Annually'),('0bf57ce8-c286-4ead-adcc-94781404689a','Staff Engineer, Frontend- Team Lead New!','Hybrid Remote Work','Full-Time','Hybrid Remote in New York City, NY, Los Angeles, CA','Today','https://remote.co/job-details/staff-engineer-frontend-team-lead-4757e2f2-f352-4d1e-ab59-b957daa76938','8be35fe3020115596b1d81b4d77e12cb','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$160,000 - $190,000 Annually'),('9a635595-a2ce-4bd0-8c66-9388a1e97ad0','Account Executive New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/account-executive-d12c1818-0c1d-4ff6-a6de-9e8210339211','927d46ee86319c80992d43fde388f3c8','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$60,000 - $95,000 Annually'),('7eba375e-2a33-4f85-9c1e-01a78d6b7105','Human Resource Officer New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Nairobi, Kenya','Today','https://remote.co/job-details/human-resource-officer-4a80bc9e-b738-461e-91bd-aea3d1ad2aa5','ea5730bc77df3dcb48101eb4b4a2a9b9','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('a62c9113-3925-4c38-ae1f-91d6918e9dd8','Customer Support Engineer New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/customer-support-engineer-33a25229-0c7b-4182-9a79-e236998f71a4','4a02515c74b980ab3125ae175e039d0d','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('2af97c78-17cd-471b-8a8f-25a1ace0bb0a','Enterprise Solutions Manager New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Austin, TX, New York, NY, San Francisco, CA, Washington DC, DC, Baltimore, MD','Today','https://remote.co/job-details/enterprise-solutions-manager-3eafd6a5-2a64-4bd3-8f35-0c42688cbc4c','a5d231493a0fa2316baac6a9986100f6','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('fbf4bbbb-0db0-45e1-8fa9-02e7f79ef3de','Enterprise Solutions Specialist New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Austin, TX, New York, NY, San Francisco, CA, Washington, DC, Baltimore, MD','Today','https://remote.co/job-details/enterprise-solutions-specialist-36332dc6-1aeb-426e-8348-715bd94705ca','e82dbaeb594a2b937b0765a2f879f1b4','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('34c4215d-5b1e-46f3-823f-846e468056a9','Senior Business Analyst New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/senior-business-analyst-8702b8b2-b99e-4edc-9b23-a597ce821518','830f780c635558da327259431d02eb45','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$127,000 - $175,000 Annually'),('9adfbe68-51df-4143-8605-07a801d73bea','Senior Technical Business Analyst New!','Hybrid Remote Work','Alternative Schedule','Hybrid Remote in Bangalore, KA, India','Today','https://remote.co/job-details/senior-technical-business-analyst-e1d27527-f4a5-44fe-8d2b-184ec2775010','47fddcea05fb73ac38cc223e051f9477','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('d0568ac1-e85a-4658-8bd3-0ebbbb3eca55','Senior Technical Recruiter New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/senior-technical-recruiter-e290f081-e21f-4995-9b26-8ee5902f725d','98e972ac664fad30f3409b1b27684ff4','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$95,000 - $125,000 Annually'),('0dfe2a69-e126-439e-b0e0-8f2fa91be123','Staff Security Engineer, Vulnerability Operations New!','100% Remote Work','Full-Time','Remote in WA, OR, CA, NV','Today','https://remote.co/job-details/staff-security-engineer-vulnerability-operations-80d200dc-d00e-4af8-81e9-7b9de19747a1','3045b188f02ae0c32e174ec0f57cd1b4','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$210,000 - $316,000 Annually'),('846d80fa-a879-479b-a027-1ba6e3b75437','Chief of Staff New!','100% Remote Work','Full-Time','Remote in New York, NY','Today','https://remote.co/job-details/chief-of-staff-52d50a69-aac9-45f7-ac4b-9773a5940c22','a4126c4e220950f8df6cf6f627087292','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$157,590 - $206,000 Annually'),('8b9b0e02-c5ff-44d9-b4de-06d88a3f42e6','Content Marketing Manager New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/content-marketing-manager-46685010-8e30-423d-989d-8c8aeec1d48f','96742c887a1677f073de6f4f503a4ffd','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$116,960 - $172,000 Annually'),('36f321a1-05f0-4d3e-9616-0b744d8dbe17','Senior Project Manager New!','100% Remote Work','Full-Time','Remote in Thailand, Thailand','Today','https://remote.co/job-details/senior-project-manager-c586de11-6462-4565-b47d-02926b591d8a','4f4bc980a6c0b3ead6d342b651fe3f45','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('841d9736-2566-41cc-b7e6-74c82f0e567f','Cost Manager New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Sydney, NSW, Australia','Today','https://remote.co/job-details/cost-manager-7403a68f-63f9-47a2-b7f3-c68ba6294ec0','ee00a22f9ff901f7a6df33bad0601443','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('11141533-a4f0-4674-aa33-b61a0ff20f20','Solutions Architect New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Sydney, NSW, Australia','Today','https://remote.co/job-details/solutions-architect-6d0b8a42-8308-4c33-985c-59b77d2488f5','f25e9cad0ba71dd8c375b8bc6bd64536','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('e7d5d85a-32bb-452b-8469-f05ce6f55e44','Senior Product Analyst New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Albania, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kazakhstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, Vatican City','Today','https://remote.co/job-details/senior-product-analyst-2b541f46-39f3-4902-a38b-6f672aaa55ba','54da868984abee698f55b58e09482684','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('120f54cf-80ca-4612-90f3-d047a44e53e7','Manager, Customer Benefits Support New!','Hybrid Remote Work','Alternative Schedule','Hybrid Remote in New York, NY','Today','https://remote.co/job-details/manager-customer-benefits-support-1dc61a81-69a3-49ae-ac2f-22c03ffb8f37','e219b1a1640ca9204f4c57347845e401','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$122,000 - $134,200 Annually'),('363ceb8c-bc63-4f42-8dd5-e266387d8049','Treasury Analyst New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Mexico City, MX-CMX, Mexico','Today','https://remote.co/job-details/treasury-analyst-f42e216e-6515-4db5-bf30-672063d0f12a','a4b934d57bb1cb7d110d33d4503889c4','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('3f9b9c21-d994-4867-ad80-ec7365436ed8','Marketing Operations Manager New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Mulgrave, VIC, Australia','Today','https://remote.co/job-details/marketing-operations-manager-dae8731b-6394-4d83-9240-e08d131c2089','a97303ac5d18b0aec1b7f51de921a6a8','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('9e71ecbb-303c-449c-a892-31710f484685','Mid-level Full Stack Developer New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Brisbane, QLD, Australia, Sydney, NSW, Australia','Today','https://remote.co/job-details/mid-level-full-stack-developer-86cc80dc-f548-4608-b061-43d8eadd59cd','a1a306df0053f5a4ba2b6cc054decc2b','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('e261c222-afdf-472d-9eaf-312821c047ce','Claims Consultant - General Liability New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Sydney, NSW, Aus`... 9478 more characters,
+  parameters: {},
+  [cause]: error: value too long for type character varying(255)
+      at Parser.parseErrorMessage (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/pg-protocol/src/parser.ts:369:69)
+      at Parser.handlePacket (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/pg-protocol/src/parser.ts:187:21)
+      at Parser.parse (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/pg-protocol/src/parser.ts:102:30)
+      at Socket.<anonymous> (/home/f22labs/Documents/work/onboard-task/scrappy/node_modules/pg-protocol/src/index.ts:7:48)
+      at Socket.emit (node:events:507:28)
+      at Socket.emit (node:domain:489:12)
+      at addChunk (node:internal/streams/readable:559:12)
+      at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+      at Socket.Readable.push (node:internal/streams/readable:390:5)
+      at TCP.onStreamRead (node:internal/stream_base_commons:189:23) {
+    length: 99,
+    severity: 'ERROR',
+    code: '22001',
+    detail: undefined,
+    hint: undefined,
+    position: undefined,
+    internalPosition: undefined,
+    internalQuery: undefined,
+    where: undefined,
+    schema: undefined,
+    table: undefined,
+    column: undefined,
+    dataType: undefined,
+    constraint: undefined,
+    file: 'varchar.c',
+    line: '638',
+    routine: 'varchar',
+    sql: `INSERT INTO "scrapping_jobs_details" ("id","job_title","remote","job_type","location","postedAt","url","has_key","createdAt","updatedAt","salary") VALUES ('ded6c399-4be0-46ef-90dd-7aebb8532417','Account Executive New!','Hybrid Remote Work','Full-Time','Hybrid Remote in London, ENG, United Kingdom','Today','https://remote.co/job-details/account-executive-2266ac25-9ed1-414e-84c1-2238b8139dea','db1bb13714189f752afdba68fe10792f','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('66bea384-6862-4cac-97b0-0ab8280d14f1','Senior Product Manager New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/senior-product-manager-0e12fb65-5174-43aa-8988-45aa0b0616aa','08f9c69eb4c6ceb3f69a1e630ab0ae5e','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$118,100 - $173,600 Annually'),('ed361d0c-37f6-42fe-bc61-90b6e445b303','Editorial Data Analyst New!','Hybrid Remote Work','Full-Time','Hybrid Remote in New York, NY','Today','https://remote.co/job-details/editorial-data-analyst-71c0c6ef-cde5-4175-b937-ad5fab4dc461','2d2e1444a2cea3f12b0cce32baa6671e','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$55,000 - $75,000 Annually'),('577c7a08-84e7-452b-97fe-0b468d4d3b2a','Senior Site Reliability Engineer IV New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Atlanta, GA','Today','https://remote.co/job-details/senior-site-reliability-engineer-iv-f0fa7e20-b59c-4b11-80c5-89f7be42309f','4f6b9208578c64de58359828d4c53f6b','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$150,000 - $252,000 Annually'),('f31c48f4-0538-4c08-8f32-7f55e6387c12','Senior Employment Counsel New!','Hybrid Remote Work','Full-Time','Hybrid Remote in San Francisco, CA, Chicago, IL','Today','https://remote.co/job-details/senior-employment-counsel-788aa142-96cd-4ba6-a4cf-b2051b16d5d9','32c544eea858617993f4cc9829a46b6c','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$220,680 - $263,590 Annually'),('0bf57ce8-c286-4ead-adcc-94781404689a','Staff Engineer, Frontend- Team Lead New!','Hybrid Remote Work','Full-Time','Hybrid Remote in New York City, NY, Los Angeles, CA','Today','https://remote.co/job-details/staff-engineer-frontend-team-lead-4757e2f2-f352-4d1e-ab59-b957daa76938','8be35fe3020115596b1d81b4d77e12cb','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$160,000 - $190,000 Annually'),('9a635595-a2ce-4bd0-8c66-9388a1e97ad0','Account Executive New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/account-executive-d12c1818-0c1d-4ff6-a6de-9e8210339211','927d46ee86319c80992d43fde388f3c8','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$60,000 - $95,000 Annually'),('7eba375e-2a33-4f85-9c1e-01a78d6b7105','Human Resource Officer New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Nairobi, Kenya','Today','https://remote.co/job-details/human-resource-officer-4a80bc9e-b738-461e-91bd-aea3d1ad2aa5','ea5730bc77df3dcb48101eb4b4a2a9b9','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('a62c9113-3925-4c38-ae1f-91d6918e9dd8','Customer Support Engineer New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/customer-support-engineer-33a25229-0c7b-4182-9a79-e236998f71a4','4a02515c74b980ab3125ae175e039d0d','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('2af97c78-17cd-471b-8a8f-25a1ace0bb0a','Enterprise Solutions Manager New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Austin, TX, New York, NY, San Francisco, CA, Washington DC, DC, Baltimore, MD','Today','https://remote.co/job-details/enterprise-solutions-manager-3eafd6a5-2a64-4bd3-8f35-0c42688cbc4c','a5d231493a0fa2316baac6a9986100f6','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('fbf4bbbb-0db0-45e1-8fa9-02e7f79ef3de','Enterprise Solutions Specialist New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Austin, TX, New York, NY, San Francisco, CA, Washington, DC, Baltimore, MD','Today','https://remote.co/job-details/enterprise-solutions-specialist-36332dc6-1aeb-426e-8348-715bd94705ca','e82dbaeb594a2b937b0765a2f879f1b4','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('34c4215d-5b1e-46f3-823f-846e468056a9','Senior Business Analyst New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/senior-business-analyst-8702b8b2-b99e-4edc-9b23-a597ce821518','830f780c635558da327259431d02eb45','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$127,000 - $175,000 Annually'),('9adfbe68-51df-4143-8605-07a801d73bea','Senior Technical Business Analyst New!','Hybrid Remote Work','Alternative Schedule','Hybrid Remote in Bangalore, KA, India','Today','https://remote.co/job-details/senior-technical-business-analyst-e1d27527-f4a5-44fe-8d2b-184ec2775010','47fddcea05fb73ac38cc223e051f9477','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('d0568ac1-e85a-4658-8bd3-0ebbbb3eca55','Senior Technical Recruiter New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/senior-technical-recruiter-e290f081-e21f-4995-9b26-8ee5902f725d','98e972ac664fad30f3409b1b27684ff4','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$95,000 - $125,000 Annually'),('0dfe2a69-e126-439e-b0e0-8f2fa91be123','Staff Security Engineer, Vulnerability Operations New!','100% Remote Work','Full-Time','Remote in WA, OR, CA, NV','Today','https://remote.co/job-details/staff-security-engineer-vulnerability-operations-80d200dc-d00e-4af8-81e9-7b9de19747a1','3045b188f02ae0c32e174ec0f57cd1b4','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$210,000 - $316,000 Annually'),('846d80fa-a879-479b-a027-1ba6e3b75437','Chief of Staff New!','100% Remote Work','Full-Time','Remote in New York, NY','Today','https://remote.co/job-details/chief-of-staff-52d50a69-aac9-45f7-ac4b-9773a5940c22','a4126c4e220950f8df6cf6f627087292','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$157,590 - $206,000 Annually'),('8b9b0e02-c5ff-44d9-b4de-06d88a3f42e6','Content Marketing Manager New!','100% Remote Work','Full-Time','Remote, US National','Today','https://remote.co/job-details/content-marketing-manager-46685010-8e30-423d-989d-8c8aeec1d48f','96742c887a1677f073de6f4f503a4ffd','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$116,960 - $172,000 Annually'),('36f321a1-05f0-4d3e-9616-0b744d8dbe17','Senior Project Manager New!','100% Remote Work','Full-Time','Remote in Thailand, Thailand','Today','https://remote.co/job-details/senior-project-manager-c586de11-6462-4565-b47d-02926b591d8a','4f4bc980a6c0b3ead6d342b651fe3f45','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('841d9736-2566-41cc-b7e6-74c82f0e567f','Cost Manager New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Sydney, NSW, Australia','Today','https://remote.co/job-details/cost-manager-7403a68f-63f9-47a2-b7f3-c68ba6294ec0','ee00a22f9ff901f7a6df33bad0601443','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('11141533-a4f0-4674-aa33-b61a0ff20f20','Solutions Architect New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Sydney, NSW, Australia','Today','https://remote.co/job-details/solutions-architect-6d0b8a42-8308-4c33-985c-59b77d2488f5','f25e9cad0ba71dd8c375b8bc6bd64536','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('e7d5d85a-32bb-452b-8469-f05ce6f55e44','Senior Product Analyst New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Albania, Andorra, Armenia, Austria, Azerbaijan, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Georgia, Germany, Greece, Hungary, Iceland, Ireland, Italy, Kazakhstan, Latvia, Liechtenstein, Lithuania, Luxembourg, Malta, Moldova, Monaco, Montenegro, Netherlands, North Macedonia, Norway, Poland, Portugal, Romania, San Marino, Serbia, Slovakia, Slovenia, Spain, Sweden, Switzerland, Turkey, United Kingdom, Vatican City','Today','https://remote.co/job-details/senior-product-analyst-2b541f46-39f3-4902-a38b-6f672aaa55ba','54da868984abee698f55b58e09482684','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('120f54cf-80ca-4612-90f3-d047a44e53e7','Manager, Customer Benefits Support New!','Hybrid Remote Work','Alternative Schedule','Hybrid Remote in New York, NY','Today','https://remote.co/job-details/manager-customer-benefits-support-1dc61a81-69a3-49ae-ac2f-22c03ffb8f37','e219b1a1640ca9204f4c57347845e401','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00','$122,000 - $134,200 Annually'),('363ceb8c-bc63-4f42-8dd5-e266387d8049','Treasury Analyst New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Mexico City, MX-CMX, Mexico','Today','https://remote.co/job-details/treasury-analyst-f42e216e-6515-4db5-bf30-672063d0f12a','a4b934d57bb1cb7d110d33d4503889c4','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('3f9b9c21-d994-4867-ad80-ec7365436ed8','Marketing Operations Manager New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Mulgrave, VIC, Australia','Today','https://remote.co/job-details/marketing-operations-manager-dae8731b-6394-4d83-9240-e08d131c2089','a97303ac5d18b0aec1b7f51de921a6a8','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('9e71ecbb-303c-449c-a892-31710f484685','Mid-level Full Stack Developer New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Brisbane, QLD, Australia, Sydney, NSW, Australia','Today','https://remote.co/job-details/mid-level-full-stack-developer-86cc80dc-f548-4608-b061-43d8eadd59cd','a1a306df0053f5a4ba2b6cc054decc2b','2025-08-05 21:06:50.197 +00:00','2025-08-05 21:06:50.197 +00:00',NULL),('e261c222-afdf-472d-9eaf-312821c047ce','Claims Consultant - General Liability New!','Hybrid Remote Work','Full-Time','Hybrid Remote in Sydney, NSW, Aus`... 9478 more characters,
+    parameters: undefined
+  }
+}
+[2025-08-06T02:36:50.231] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.245] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.274] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.286] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.298] [INFO] default - Inserted 50 jobs
+[2025-08-06T02:36:50.304] [INFO] default -  Successfully inserted 
+[2025-08-06T02:38:22.122] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:38:22 GMT+0530 (India Standard Time)
+[2025-08-06T02:38:22.123] [INFO] default - Retrieving all events
+[2025-08-06T02:38:22.141] [INFO] default - GET localhost /api/v1/events/all Wed Aug 06 2025 02:38:22 GMT+0530 (India Standard Time)
+[2025-08-06T02:38:22.141] [INFO] default - Retrieving all events
+[2025-08-06T02:38:33.598] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:38:33 GMT+0530 (India Standard Time)
+[2025-08-06T02:38:33.598] [INFO] default - Get all jobs handler invoked
+[2025-08-06T02:38:33.615] [INFO] default - GET localhost /api/v1/jobs/get-jobs Wed Aug 06 2025 02:38:33 GMT+0530 (India Standard Time)
+[2025-08-06T02:38:33.615] [INFO] default - Get all jobs handler invoked

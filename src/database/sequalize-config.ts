@@ -1,6 +1,8 @@
 import { Sequelize } from "@sequelize/core";
 import { PostgresDialect } from "@sequelize/postgres";
 import envConfig from "../config/env-config";
+import Jobs from "./models/Jobs.model";
+import Events from "./models/Events.model";
 
 const sequelize = new Sequelize({
   dialect: PostgresDialect,
@@ -10,7 +12,7 @@ const sequelize = new Sequelize({
   host: envConfig.Postgress.Host,
   port: envConfig.Postgress.Port,
   clientMinMessages: "notice",
-  models: [],
+  models: [Jobs , Events],
 });
 
 export default sequelize;
