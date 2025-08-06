@@ -4,7 +4,9 @@ import logger from "../../config/logger-config";
 import JobsQueryHelper from "../../database/helpers/job.query.helper";
 
 export const runRemoteCoJob = () => {
-  nodeCron.schedule("*/2 * * * *", async (task) => {
+
+  // run job every day 12:00 am
+  nodeCron.schedule("0 0 * * *", async (task) => {
     logger.info(
       " remote.co jobs was scheduled ",
       task.triggeredAt.toISOString()

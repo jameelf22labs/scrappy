@@ -15,7 +15,7 @@ export const scrappeRemoteCo = async ({
   logger.info("Remote.co started for scrapping");
 
   const config: PupperterConfigOptions = {
-    headless: false,
+    headless: true,
     userAgent: envConfig.UserAgent,
     args: [],
     url: "https://remote.co/remote-jobs/search?",
